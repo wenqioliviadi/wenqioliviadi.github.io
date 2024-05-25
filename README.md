@@ -100,8 +100,8 @@
 ![Cycling](/assets/Cycling.jpeg)
 ### Sailing
 ### Fencing
-![Fencing](/assets/fencing1.jpeg)
-![Fencing2](/assets/fencing2.jpeg)
+![Fencing](/assets/fencing1.JPG)
+![Fencing2](/assets/fencing2.JPG)
 ### Graphic Design
 
 
