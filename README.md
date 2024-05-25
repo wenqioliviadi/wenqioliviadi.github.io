@@ -31,8 +31,8 @@
 - Analysed the experimental data using **MATLAB** plotting to find the stiffness, maximum force applied, cross-sectional area, and ultimate tensile strength analyzed of different sample groups.
 - **Hardware**:
 - Design-test-build extrusion parts of the dual-channeled 3D printer using **Onshape**
-![Hardware1](/images/extruder1.jpeg)
-![Hardware2](/images/extruder2.jpeg)
+![Hardware1](/images/extruder1.png)
+![Hardware2](/images/extruder2.png)
   
 **Teaching Intern @ Department of Physics and Astronomy, University of Rochester (_January 2023 - May 2023_)**
 - Ran weekly course workshops, and review sessions; as well as answered student questions in the course.
