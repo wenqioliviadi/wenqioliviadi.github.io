@@ -20,6 +20,18 @@
 - Shadowed Dr. Wenjia Liu for patients with Crohn's disease and helped record documenting findings from patient exams and assessments
 - Helped integrate data & non-statistical information for projects of different clinical trial stages for ethics review meetings by developing a new information input system using Excel greatly increased the working efficiency
 
+**Researcher @ iGEM Rochester 2023, International Genetically Engineered Machine (_February 2023 - December 2023_)**
+- **Wetlab**:
+- helped conduct cell viability experiments, PCR, PCR product extraction, High-Performance Liquid Chromatography (HPLC) experiments for detecting the final products
+- **Drylab**:
+- Aimed to determine the effect of the presence of E. coli with different fluorescent proteins on the tensile properties of alginate materials.
+- Conducted tensile testing to assess the mechanical properties of materials, focusing on how factors such as the presence of bacteria affect the behavior of printed materials for the parallel cultured 3D bioprinting system.
+- Examined the tensile properties of three sample groups: a control group with bacteria-free 4% alginate, samples with 4% alginate cultured with green fluorescent protein (GFP)-expressing E. coli strains, and samples with 4% alginate cultured with red fluorescent protein (RFP)-expressing E. coli strains.
+- Created 3D-printed dog bone-shaped samples and placed them on LB plates containing chloramphenicol (chlora) for testing.
+- Analysed the experimental data using **MATLAB** plotting to find the stiffness, maximum force applied, cross-sectional area, and ultimate tensile strength analyzed of different sample groups.
+- **Hardware**:
+- Design-test-build extrusion parts of the dual-channeled 3D printer using **Onshape**
+  
 **Teaching Intern @ Department of Physics and Astronomy, University of Rochester (_January 2023 - May 2023_)**
 - Ran weekly course workshops, and review sessions; as well as answered student questions in the course.
 
@@ -27,12 +39,18 @@
 - Using meteorological spectroscopy to test anorectal staplers to ensure they are safe for human use 
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### 3D Parallel Bio-printing System for Optimizing Biomanufacturing Processes
+[Publication](https://2023.igem.wiki/rochester/home)
+- Developed synthetically engineered E. coli and S. cerevisiae for an efficient parallel culture system using a custom-built dual-channel 3D bioprinter, enabling the creation of customizable bioink hydrogels for the production of complex medicinal molecules.
+- Participated in the Grand Jamboree in Paris, France, the world's largest synthetic biology competition, representing the 2023 Rochester team.
+- Policy & Practice Manager, Entrepreneurship Team Lead, and member of the Wet Lab and Hardware sub-teams, with guidance from advisors Dr. Anne Meyer, Dr. Nancy Chen, Dr. Alexis Stein, and three PhD TAs due to the independent research nature of the project.
+- Deep gratitude to the generous sponsors for supporting the research endeavors, the experts in the field for their invaluable insights, and the Rochester community for their enthusiasm and shared passion for synthetic biology.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+#### Personal Contribution: 
+- Developed objective strategy for researching potential customers and collaborators and brainstorming strategies to improve the projects via different angles. 
+- Networking and conducting customer discoveries through various social media and platforms. This novel approach led to better characterization of the underlying problems with different stages of the project (brainstorming, development, and project implementation). The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new applications of the 3D bioprinter developed.
+[Publication](https://2023.igem.wiki/rochester/human-practices)
+[Publication](https://2023.igem.wiki/rochester/entrepreneurship)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
