@@ -1,6 +1,6 @@
 # Biomedical Engineer and Business Analyst
 
-#### Technical Skills: Python, MATLAB, ANSYS Workbench, FEBio, Welding, Siemens NX, Solidworks, Onshape, Machinery Design, 3D Printing
+#### Technical Skills: Python, MATLAB, ANSYS Workbench, FEBio, Welding, SIEMENS NX, Solidworks, Onshape, Machinery Design, 3D Printing
 
 - **Hi! I am Wenqi!** I have worked on several projects centered around developing **algorithms and hardware** for various projects not only for research but also for machine manufacturing, including **investigating material properties of synthetic cartilage** (abstract accepted into BMES Annual Conference 2023 for my independent research), and **co-culture dual-channel 3D bioprinting system**, and developed a new excel system for helping organize clinical trial information at **Good Clinical Practice (GCP)** Office at Changzhou No.2 People’s Hospital.
 - Besides research, I have been actively participating in **machine fabrication and business analysis**. See my CV for more details and selected awards in iGEM, National Academy of Engineers, and fellowships. 
@@ -49,15 +49,29 @@
 #### Personal Contribution: 
 - Developed objective strategy for researching potential customers and collaborators and brainstorming strategies to improve the projects via different angles. 
 - Networking and conducting customer discoveries through various social media and platforms. This novel approach led to better characterization of the underlying problems with different stages of the project (brainstorming, development, and project implementation). The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new applications of the 3D bioprinter developed.
+- Human Practices Wiki
 [Publication](https://2023.igem.wiki/rochester/human-practices)
+- Entrepreneurship Wiki
 [Publication](https://2023.igem.wiki/rochester/entrepreneurship)
+- Developed the entire business plan and project implementation
+- Project Implementation Wiki
+[Publication](https://2023.igem.wiki/rochester/implementation)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
+### Effects of Macromolecular Infiltration on the Mechanical Properties of Synthetic Cartilage
+[Publication (BMES 2023 Annual Conference)](https://2023bmesannual.eventscribe.net/fsPopup.asp?PosterID=606566&mode=posterInfo)
+-Performed indentation tests on the samples using a custom-built machine to measure how they respond to pressure
+-Analyzed the force data with a mathematical model to understand the material properties using **MATLAB**
+-Created a computer model using **FEBio** to simulate the gel's behavior and adjusted it until it matched the real-life test results
 ![Bike Study](/assets/img/bike_study.jpeg)
+
+### Baja SAE Suspension Design & Validation 
+- Design and enhance the Baja car suspension system for the 2023 season to improve dynamic performance across various competition courses, increase reliability for a 4-hour endurance race, and optimize weight reduction
+- Define the suspension geometry using points and lines as an initial testing stage for vehicle dynamics, serving as the foundation for subsequent solid body design. Design components based on this geometry.
+- Perform load transfer and finite element analysis (FEA) simulations to ensure maximum stress remains within safe limits, and physically validate the design using strain data collected from strain gauges using **SIEMENS NX**
+- The new front upper A-arm design is 40% lighter than the previous version and can handle the same load with less stress concentration
+
+### [Ongoing Independent Project - Advanced Mechanical Fabrication] Automated Electromechanical Mouse Hindlimb Loading Platform
+- Design a motorized lever system that converts rotational motion into linear motion to rotate mouse hindlimbs for cartilage impingement experiments
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
