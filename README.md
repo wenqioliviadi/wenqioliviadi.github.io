@@ -79,10 +79,10 @@
 3. **Di, W.**, Poster Presentation, GCSP Annual Meeting, February 2024, Los Angeles, CA
 
 ## Leadership Experiences
-- **Vice President** | Biomedical Engineering Society University of Rochester Chapter – Rochester, NY, USA. 04/2023 – 12/2023
-- **Publicity Chair** | Biomedical Engineering Society University of Rochester Chapter – Rochester, NY, USA. 01/2022 – 04/2023
-- **Entrepreneurship Lead** | International Genetically Engineered Machine – Rochester, NY, USA. 01/2023 – 11/2023
-- **Policy & Practice Manager** | International Genetically Engineered Machine – Rochester, NY, USA. 01/2023 – 11/2023
+- **Vice President**, Biomedical Engineering Society University of Rochester Chapter – Rochester, NY, USA. 04/2023 – 12/2023
+- **Publicity Chair**, Biomedical Engineering Society University of Rochester Chapter – Rochester, NY, USA. 01/2022 – 04/2023
+- **Entrepreneurship Lead**, iGEM Rochester, International Genetically Engineered Machine – Rochester, NY, USA. 01/2023 – 11/2023
+- **Policy & Practice Manager**, iGEM Rochester, International Genetically Engineered Machine – Rochester, NY, USA. 01/2023 – 11/2023
 
 ## Fun Facts: when I'm not doing research you can usually find me...
 ### Traditional Chinese Dancing 
