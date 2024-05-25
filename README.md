@@ -2,8 +2,8 @@
 
 #### Technical Skills: Python, MATLAB, ANSYS Workbench, FEBio, Welding, Siemens NX, Solidworks, Onshape, Machinery Design, 3D Printing
 
-- I have worked on several projects centered around developing algorithms and hardware for various projects not only for research but also for machine manufacturing, including investigating material properties of synthetic cartilage (abstract accepted into BMES Annual Conference 2023 for my independent research), and co-culture dual-channel 3D bioprinting system, and developed a new excel system for helping organize clinical trial information at Good Clinical Practice Office at Changzhou No.2 People’s Hospital.
-- Besides research, I have been actively participating in machine fabrication and business analysis. See my CV for more details and selected awards in iGEM, National Academy of Engineers, and fellowships. 
+- **Hi! I am Wenqi!** I have worked on several projects centered around developing **algorithms and hardware** for various projects not only for research but also for machine manufacturing, including **investigating material properties of synthetic cartilage** (abstract accepted into BMES Annual Conference 2023 for my independent research), and **co-culture dual-channel 3D bioprinting system**, and developed a new excel system for helping organize clinical trial information at **Good Clinical Practice (GCP)** Office at Changzhou No.2 People’s Hospital.
+- Besides research, I have been actively participating in **machine fabrication and business analysis**. See my CV for more details and selected awards in iGEM, National Academy of Engineers, and fellowships. 
 
 ## Education | University of Rochester (_May 2025_)			        		
 - B.S., Bioengineering and Biomedical Engineering 
@@ -11,13 +11,20 @@
 - Cluster, Introduction to Spanish Studies 
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Research Assitant @ Buckley Lab, Department of Biomedical Engineering, University of Rochester (_January 2022 - Present_)**
+- Developed 3D-printed indentation hardware and algorithms for linear regression with iterative optimization
+- Conducted data collection, processing, and analysis for the novel study evaluating how the infiltration of albumin-sized macromolecules and larger microspheres may affect the permeability of agarose hydrogels
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Office Assistant @ GCP Office, Changzhou No.2 People's Hospital (_January 2024_)**
+- Learned different projects of clinical trial I, II, III, and IV (in collaboration with other big medical companies such as Johnson & Johnson) under the guidance of Dr. Wenjia Liu, Associate Chief Physician, the M.D., and the Deputy Director of the Gastroenterology Department, The Affiliated Changzhou No.2 People’s Hospital of Nanjing Medical University.
+- Shadowed Dr. Wenjia Liu for patients with Crohn's disease and helped record documenting findings from patient exams and assessments
+- Helped integrate data & non-statistical information for projects of different clinical trial stages for ethics review meetings by developing a new information input system using Excel greatly increased the working efficiency
+
+**Teaching Intern @ Department of Physics and Astronomy, University of Rochester (_January 2023 - May 2023_)**
+- Ran weekly course workshops, and review sessions; as well as answered student questions in the course.
+
+**Quality Assurance Quality Control Lab Technician @ Lepu Medical Technology (Beijing) Co., Ltd. (_March 2021 - April 2021_)**
+- Using meteorological spectroscopy to test anorectal staplers to ensure they are safe for human use 
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
