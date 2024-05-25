@@ -31,6 +31,8 @@
 - Analysed the experimental data using **MATLAB** plotting to find the stiffness, maximum force applied, cross-sectional area, and ultimate tensile strength analyzed of different sample groups.
 - **Hardware**:
 - Design-test-build extrusion parts of the dual-channeled 3D printer using **Onshape**
+![Hardware1](/assets/extruder1.jpeg)
+![Hardware2](/assets/extruder2.jpeg)
   
 **Teaching Intern @ Department of Physics and Astronomy, University of Rochester (_January 2023 - May 2023_)**
 - Ran weekly course workshops, and review sessions; as well as answered student questions in the course.
@@ -40,6 +42,8 @@
 
 ## Projects
 ### 3D Parallel Bio-printing System for Optimizing Biomanufacturing Processes
+![iGEM Pic1](/assets/iGEM1.jpeg)
+![iGEM Pic2](/assets/iGEM2.jpeg)
 [Publication](https://2023.igem.wiki/rochester/home)
 - Developed synthetically engineered E. coli and S. cerevisiae for an efficient parallel culture system using a custom-built dual-channel 3D bioprinter, enabling the creation of customizable bioink hydrogels for the production of complex medicinal molecules.
 - Participated in the Grand Jamboree in Paris, France, the world's largest synthetic biology competition, representing the 2023 Rochester team.
@@ -58,6 +62,7 @@
 [Publication](https://2023.igem.wiki/rochester/implementation)
 
 ### Effects of Macromolecular Infiltration on the Mechanical Properties of Synthetic Cartilage
+![BMES](/assets/BMES.jpeg)
 [Publication (BMES 2023 Annual Conference)](https://2023bmesannual.eventscribe.net/fsPopup.asp?PosterID=606566&mode=posterInfo)
 -Performed indentation tests on the samples using a custom-built machine to measure how they respond to pressure
 -Analyzed the force data with a mathematical model to understand the material properties using **MATLAB**
@@ -65,6 +70,7 @@
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ### Baja SAE Suspension Design & Validation 
+![Baja](/assets/Baja1.jpeg)
 - Design and enhance the Baja car suspension system for the 2023 season to improve dynamic performance across various competition courses, increase reliability for a 4-hour endurance race, and optimize weight reduction
 - Define the suspension geometry using points and lines as an initial testing stage for vehicle dynamics, serving as the foundation for subsequent solid body design. Design components based on this geometry.
 - Perform load transfer and finite element analysis (FEA) simulations to ensure maximum stress remains within safe limits, and physically validate the design using strain data collected from strain gauges using **SIEMENS NX**
@@ -77,6 +83,7 @@
 ## Conference / Symposium Presentations
 1. **Di, W.**, et al, Poster Presentation, Undergraduate Research Symposium, April 2023, Rochester, NY
 2. **Di, W.**, et al, Poster Presentation, Biomedical Engineering Society Annual Meeting, October 2023, Seattle, WA
+![GCSP](/assets/GCSP.png)
 3. **Di, W.**, Poster Presentation, GCSP Annual Meeting, February 2024, Los Angeles, CA
 
 ## Leadership Experiences
@@ -88,10 +95,15 @@
 ## Fun Facts: when I'm not doing research you can usually find me...
 ### Traditional Chinese Dancing 
 ### Badminton
+![Badminton](/assets/Badminton.jpeg)
 ### Cycling
+![Cycling](/assets/Cycling.jpeg)
 ### Sailing
 ### Fencing
+![Fencing](/assets/fencing1.jpeg)
+![Fencing2](/assets/fencing2.jpeg)
 ### Graphic Design
+
 
 
 
