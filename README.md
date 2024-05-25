@@ -70,7 +70,8 @@
 - Perform load transfer and finite element analysis (FEA) simulations to ensure maximum stress remains within safe limits, and physically validate the design using strain data collected from strain gauges using **SIEMENS NX**
 - The new front upper A-arm design is 40% lighter than the previous version and can handle the same load with less stress concentration
 
-### [Ongoing Independent Project - Advanced Mechanical Fabrication] Automated Electromechanical Mouse Hindlimb Loading Platform
+### Ongoing Independent Project - Advanced Mechanical Fabrication
+### Automated Electromechanical Mouse Hindlimb Loading Platform
 - Design a motorized lever system that converts rotational motion into linear motion to rotate mouse hindlimbs for cartilage impingement experiments
 
 ## Conference / Symposium Presentations
