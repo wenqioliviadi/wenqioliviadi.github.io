@@ -3,7 +3,7 @@
 #### Technical Skills: Python, MATLAB, ANSYS Workbench, FEBio, Welding, Siemens NX, Solidworks, Onshape, Machinery Design, 3D Printing
 
 - I have worked on several projects centered around developing algorithms and hardware for various projects not only for research but also for machine manufacturing, including investigating material properties of synthetic cartilage (abstract accepted into BMES Annual Conference 2023 for my independent research), and co-culture dual-channel 3D bioprinting system, and developed a new excel system for helping organize clinical trial information at Good Clinical Practice Office at Changzhou No.2 People’s Hospital.
-- Besides research, I have been actively participating in Machine Manufacturing and Business Analysis. See my CV for more details and selected awards in iGEM, National Academy of Engineers, and fellowships. 
+- Besides research, I have been actively participating in machine fabrication and business analysis. See my CV for more details and selected awards in iGEM, National Academy of Engineers, and fellowships. 
 
 ## Education | University of Rochester (_May 2025_)			        		
 - B.S., Bioengineering and Biomedical Engineering 
