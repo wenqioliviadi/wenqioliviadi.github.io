@@ -2,10 +2,10 @@
 
 #### Technical Skills: Python, MATLAB, ANSYS Workbench, FEBio, Welding, Siemens NX, Solidworks, Onshape, Machinery Design, 3D Printing
 
-## Education			        		
-- B.S., Bioengineering and Biomedical Engineering | University of Rochester (_May 2025_)
-- B.A., Economics | University of Rochester (_May 2025_)
-- Cluster, Introduction to Spanish Studies | University of Rochester (_May 2025_)
+## Education | University of Rochester (_May 2025_)			        		
+- B.S., Bioengineering and Biomedical Engineering 
+- B.A., Economics 
+- Cluster, Introduction to Spanish Studies 
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
