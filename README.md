@@ -84,9 +84,11 @@
 1. **Di, W.**, et al, Poster Presentation, Undergraduate Research Symposium, April 2023, Rochester, NY
 2. **Di, W.**, et al, Poster Presentation, Biomedical Engineering Society Annual Meeting, October 2023, Seattle, WA
 ![GCSP](/images/GCSP.png)
-3. **Di, W.**, Poster Presentation, GCSP Annual Meeting, February 2024, Los Angeles, CA
+![GCSP2](/images/GCSP_Presentation.jpeg)
+4. **Di, W.**, Poster Presentation, GCSP Annual Meeting, February 2024, Los Angeles, CA
 
 ## Leadership Experiences
+![URBMES](/images/BMESClubFair.HEIC)
 - **Vice President**, Biomedical Engineering Society University of Rochester Chapter – Rochester, NY, USA. 04/2023 – 12/2023
 - **Publicity Chair**, Biomedical Engineering Society University of Rochester Chapter – Rochester, NY, USA. 01/2022 – 04/2023
 - **Entrepreneurship Lead**, iGEM Rochester, International Genetically Engineered Machine – Rochester, NY, USA. 01/2023 – 11/2023
@@ -94,16 +96,22 @@
 
 ## Fun Facts: when I'm not doing research you can usually find me...
 ### Traditional Chinese Dancing 
+![Traditional Chinese Dancing 1](/images/zgw_hyj.PNG)
+![Traditional Chinese Dancing 2](/images/zgw_zcf.jpeg)
 ### Badminton
 ![Badminton](/images/Badminton.jpeg)
 ### Cycling
 ![Cycling](/images/Cycling.jpeg)
 ### Sailing
+![Sailing1](/images/Sailing1.JPG)
+![Sailing2](/images/Sailing2.jpeg)
+![Sailing3](/images/Sailing3.JPG)
 ### Fencing
 ![Fencing](/images/fencing1.JPG)
 ![Fencing2](/images/fencing2.JPG)
 ### Graphic Design
-
-
+![Graphic Design](/images/GraphicDesign.JPG)
+### Photography
+![Photography](/images/pgraph.JPG)
 
 
