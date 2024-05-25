@@ -5,7 +5,7 @@
 ## Education			        		
 - B.S., Bioengineering and Biomedical Engineering | University of Rochester (_May 2025_)
 - B.A., Economics | University of Rochester (_May 2025_)
-- Cluster in Introduction to Spanish Studies
+- Cluster, Introduction to Spanish Studies | University of Rochester (_May 2025_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
