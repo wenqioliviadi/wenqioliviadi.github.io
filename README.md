@@ -118,7 +118,7 @@ Annual Diversity Show 2022 (Freshman Orientation Week)
 ![Cycling](/images/Cycling.jpeg)
 ### Sailing
 ![Sailing1](/images/Sailing1.JPG)
-![Sailing2](/images/Sailing2.jpeg)
+![Sailing2](/images/Sailing2.jpg)
 ![Sailing3](/images/Sailing3.JPG)
 ### Fencing
 ![Fencing](/images/fencing1.JPG)
