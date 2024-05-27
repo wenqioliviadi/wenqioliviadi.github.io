@@ -32,8 +32,10 @@
 - **Hardware**:
 - Design-test-build extrusion parts of the dual-channeled 3D printer using **Onshape**
 ![Hardware1](/images/extruder1.png)
+3D Bioprinter Extrusion Head CAD Model Frontal Plane
 ![Hardware2](/images/extruder2.png)
-  
+3D Bioprinter Extrusion Head CAD Model Back Plane
+
 **Teaching Intern @ Department of Physics and Astronomy, University of Rochester (_January 2023 - May 2023_)**
 - Ran weekly course workshops, and review sessions; as well as answered student questions in the course.
 
@@ -43,7 +45,11 @@
 ## Projects
 ### 3D Parallel Bio-printing System for Optimizing Biomanufacturing Processes
 ![iGEM Pic1](/images/iGEM1.jpeg)
+Biomanufacturing Village, iGEM Annual Grand Jamboree, Paris, France 
 ![iGEM Pic2](/images/iGEM2.jpeg)
+Team Picture, iGEM Annual Grand Jamboree, Paris, France 
+
+To learn more about the project:
 [Publication](https://2023.igem.wiki/rochester/home)
 - Developed synthetically engineered E. coli and S. cerevisiae for an efficient parallel culture system using a custom-built dual-channel 3D bioprinter, enabling the creation of customizable bioink hydrogels for the production of complex medicinal molecules.
 - Participated in the Grand Jamboree in Paris, France, the world's largest synthetic biology competition, representing the 2023 Rochester team.
@@ -63,6 +69,7 @@
 
 ### Effects of Macromolecular Infiltration on the Mechanical Properties of Synthetic Cartilage
 ![BMES](/images/BMES.jpeg)
+Poster Presentation, Biomedical Engineering Annual Meeting 2023, Seattle, WA
 [Publication (BMES 2023 Annual Conference)](https://2023bmesannual.eventscribe.net/fsPopup.asp?PosterID=606566&mode=posterInfo)
 -Performed indentation tests on the samples using a custom-built machine to measure how they respond to pressure
 -Analyzed the force data with a mathematical model to understand the material properties using **MATLAB**
@@ -71,6 +78,8 @@
 
 ### Baja SAE Suspension Design & Validation 
 ![Baja](/images/Baja1.jpeg)
+Finite Element Analysis of the Baja Suspension Using SIEMENS NX
+
 - Design and enhance the Baja car suspension system for the 2023 season to improve dynamic performance across various competition courses, increase reliability for a 4-hour endurance race, and optimize weight reduction
 - Define the suspension geometry using points and lines as an initial testing stage for vehicle dynamics, serving as the foundation for subsequent solid body design. Design components based on this geometry.
 - Perform load transfer and finite element analysis (FEA) simulations to ensure maximum stress remains within safe limits, and physically validate the design using strain data collected from strain gauges using **SIEMENS NX**
@@ -84,11 +93,14 @@
 1. **Di, W.**, et al, Poster Presentation, Undergraduate Research Symposium, April 2023, Rochester, NY
 2. **Di, W.**, et al, Poster Presentation, Biomedical Engineering Society Annual Meeting, October 2023, Seattle, WA
 ![GCSP](/images/GCSP.png)
+Poster for National Academy of Engineers Grand Challenge Scholars Program
 ![GCSP2](/images/GCSP_Presentation.jpeg)
+Been selected as one of the seven candidates (Undergraduates & Graduates) to present at USC Viterbi School of Engineering 
 4. **Di, W.**, Poster Presentation, GCSP Annual Meeting, February 2024, Los Angeles, CA
 
 ## Leadership Experiences
-![URBMES](/images/BMESClubFair.HEIC)
+![URBMES](/images/BMESClubFair.jpeg)
+Co-hosting Club Recruitment Event at the Student Club Fair
 - **Vice President**, Biomedical Engineering Society University of Rochester Chapter – Rochester, NY, USA. 04/2023 – 12/2023
 - **Publicity Chair**, Biomedical Engineering Society University of Rochester Chapter – Rochester, NY, USA. 01/2022 – 04/2023
 - **Entrepreneurship Lead**, iGEM Rochester, International Genetically Engineered Machine – Rochester, NY, USA. 01/2023 – 11/2023
@@ -97,7 +109,9 @@
 ## Fun Facts: when I'm not doing research you can usually find me...
 ### Traditional Chinese Dancing 
 ![Traditional Chinese Dancing 1](/images/zgw_hyj.PNG)
+Club Annual Showcase
 ![Traditional Chinese Dancing 2](/images/zgw_zcf.jpeg)
+Annual Diversity Show 2022 (Freshman Orientation Week)
 ### Badminton
 ![Badminton](/images/Badminton.jpeg)
 ### Cycling
@@ -109,9 +123,11 @@
 ### Fencing
 ![Fencing](/images/fencing1.JPG)
 ![Fencing2](/images/fencing2.JPG)
+Varsity Fencing (épée)
+Jan 2017 - Jan 2018
 ### Graphic Design
 ![Graphic Design](/images/GraphicDesign.JPG)
 ### Photography
 ![Photography](/images/pgraph.JPG)
-
+Spring in Rochester, NY 2024
 
