@@ -15,7 +15,7 @@
 - Developed 3D-printed indentation hardware and algorithms for linear regression with iterative optimization
 - Conducted data collection, processing, and analysis for the novel study evaluating how the infiltration of albumin-sized macromolecules and larger microspheres may affect the permeability of agarose hydrogels
 
-**Business Analyst Intern @ McKinsey & Company (June 2024 - Present_)**
+**Business Analyst Intern @ McKinsey & Company (_June 2024 - Present_)**
 - Collaborated with senior consultants to develop a comprehensive strategy for transitioning a major real estate firm into the renewable energy sector
 - Conducted in-depth market research to identify potential opportunities and challenges within the energy market, focusing on renewable energy
 - Engaged with key stakeholders, including company executives, industry experts, and potential partners, to gather insights and feedback
