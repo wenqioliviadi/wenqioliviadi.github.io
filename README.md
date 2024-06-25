@@ -15,6 +15,12 @@
 - Developed 3D-printed indentation hardware and algorithms for linear regression with iterative optimization
 - Conducted data collection, processing, and analysis for the novel study evaluating how the infiltration of albumin-sized macromolecules and larger microspheres may affect the permeability of agarose hydrogels
 
+**Business Analyst Intern @ McKinsey & Company (June 2024 - Present_)**
+- Collaborated with senior consultants to develop a comprehensive strategy for transitioning a major real estate firm into the renewable energy sector
+- Conducted in-depth market research to identify potential opportunities and challenges within the energy market, focusing on renewable energy
+- Engaged with key stakeholders, including company executives, industry experts, and potential partners, to gather insights and feedback
+- Help develop proposals for sustainable building practices and energy-efficient technologies to be integrated into the company’s real estate portfolio
+
 **Office Assistant @ GCP Office, Changzhou No.2 People's Hospital (_January 2024_)**
 - Learned different projects of clinical trial I, II, III, and IV (in collaboration with other big medical companies such as Johnson & Johnson) under the guidance of Dr. Wenjia Liu, Associate Chief Physician, the M.D., and the Deputy Director of the Gastroenterology Department, The Affiliated Changzhou No.2 People’s Hospital of Nanjing Medical University.
 - Shadowed Dr. Wenjia Liu for patients with Crohn's disease and helped record documenting findings from patient exams and assessments
