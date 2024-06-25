@@ -21,6 +21,12 @@
 - Engaged with key stakeholders, including company executives, industry experts, and potential partners, to gather insights and feedback
 - Help develop proposals for sustainable building practices and energy-efficient technologies to be integrated into the company’s real estate portfolio
 
+**Internatonal Sales Manager @ Changzhou Hershey-Power New Energy(_May 2024 - Present_)**
+• Led the launch of solar module and panel sales projects in Dubai and Osaka, Japan, ensuring timely and successful market entry. Successfully helped the company launch solar module and panel sales in Dubai and Osaka, achieving a 20% increase in regional sales.
+• Facilitated communication between English and Chinese-speaking team members, ensuring clear and effective collaboration across language barriers for clear and effective communication
+• Conducted comprehensive market research to understand regional demand, regulatory requirements, and competitive landscape in both Dubai and Osaka. Designed and implemented targeted sales and marketing strategies to promote solar modules and panels, leveraging local insights and market trends.
+• Attendee of the 17th (2024) International Photovoltaic Power Generation and Smart Energy Exhibition in Shanghai
+
 **Office Assistant @ GCP Office, Changzhou No.2 People's Hospital (_January 2024_)**
 - Learned different projects of clinical trial I, II, III, and IV (in collaboration with other big medical companies such as Johnson & Johnson) under the guidance of Dr. Wenjia Liu, Associate Chief Physician, the M.D., and the Deputy Director of the Gastroenterology Department, The Affiliated Changzhou No.2 People’s Hospital of Nanjing Medical University.
 - Shadowed Dr. Wenjia Liu for patients with Crohn's disease and helped record documenting findings from patient exams and assessments
