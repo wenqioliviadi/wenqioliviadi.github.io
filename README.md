@@ -86,7 +86,6 @@ Poster Presentation, Biomedical Engineering Annual Meeting 2023, Seattle, WA
 -Performed indentation tests on the samples using a custom-built machine to measure how they respond to pressure
 -Analyzed the force data with a mathematical model to understand the material properties using **MATLAB**
 -Created a computer model using **FEBio** to simulate the gel's behavior and adjusted it until it matched the real-life test results
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ### Baja SAE Suspension Design & Validation 
 ![Baja](/images/Baja1.jpeg)
