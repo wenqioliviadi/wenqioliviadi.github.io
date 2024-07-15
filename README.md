@@ -47,7 +47,8 @@
 3D Bioprinter Extrusion Head CAD Model Frontal Plane
 ![Hardware2](/images/extruder2.png)
 3D Bioprinter Extrusion Head CAD Model Back Plane
-
+- Performed tensile test 4% alginate dog bone shape structure 3D printed cultured with E.coli and analyzed the stiffness, maximum force applied, cross-sectional area, and ultimate tensile strength analyzed of three different sample groups [Publication](https://2023.igem.wiki/rochester/hardware)
+  
 **Teaching Intern @ Department of Physics and Astronomy, University of Rochester (_January 2023 - May 2023_)**
 - Ran weekly course workshops, and review sessions; as well as answered student questions in the course.
 
