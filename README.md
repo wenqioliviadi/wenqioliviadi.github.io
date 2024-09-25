@@ -10,13 +10,13 @@
 - B.A., Economics 
 - Cluster, Introduction to Spanish Studies 
 
-<video src='[https://github.com/user-attachments/assets/e2af3756-6d8f-4bbe-a35a-39743188cbb9]' width=180/>
+[<video src='[https://github.com/user-attachments/assets/e2af3756-6d8f-4bbe-a35a-39743188cbb9]' width=180/>](https://github.com/user-attachments/assets/007f9301-f2f9-45ba-86a4-798d48393e35)
 
 ## Work Experience
 **Research Assitant @ Buckley Lab, Department of Biomedical Engineering, University of Rochester (_January 2022 - Present_)**
 - Developed 3D-printed indentation hardware and algorithms for linear regression with iterative optimization
 - Conducted data collection, processing, and analysis for the novel study evaluating how the infiltration of albumin-sized macromolecules and larger microspheres may affect the permeability of agarose hydrogels
-- Help other members with their projects, fabricate, and modify lab experiment equipments if needed 
+- Help other members with their projects, fabricate, and modify lab experiment equipment if needed 
 
 **Business Analyst Intern @ McKinsey & Company (_June 2024 - Present_)**
 - Collaborated with senior consultants to develop a comprehensive strategy for transitioning a major real estate firm into the renewable energy sector
