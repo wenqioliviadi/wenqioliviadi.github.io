@@ -10,7 +10,7 @@
 - B.A., Economics 
 - Cluster, Introduction to Spanish Studies 
 
-<video src='[your URL here](https://github.com/user-attachments/assets/e2af3756-6d8f-4bbe-a35a-39743188cbb9)' width=180/>
+<video src='[https://github.com/user-attachments/assets/e2af3756-6d8f-4bbe-a35a-39743188cbb9]' width=180/>
 
 ## Work Experience
 **Research Assitant @ Buckley Lab, Department of Biomedical Engineering, University of Rochester (_January 2022 - Present_)**
