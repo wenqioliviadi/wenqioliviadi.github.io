@@ -10,8 +10,6 @@
 - B.A., Economics 
 - Cluster, Introduction to Spanish Studies 
 
-[[<video src='[https://github.com/user-attachments/assets/e2af3756-6d8f-4bbe-a35a-39743188cbb9]' width=180/>](https://github.com/user-attachments/assets/007f9301-f2f9-45ba-86a4-798d48393e35)](https://youtu.be/LkU5y1EW2B4)
-
 ## Work Experience
 **Research Assitant @ Buckley Lab, Department of Biomedical Engineering, University of Rochester (_January 2022 - Present_)**
 - Developed 3D-printed indentation hardware and algorithms for linear regression with iterative optimization
