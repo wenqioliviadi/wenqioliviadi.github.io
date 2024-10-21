@@ -10,6 +10,9 @@
 - B.A., Economics 
 - Cluster, Introduction to Spanish Studies 
 
+![Femur Model](/images/Femur_3D_modeling.png)
+3D Proximal Femur Model for Force Analysis Using Abaqus CAE
+
 ## Work Experience
 **Research Assitant @ Buckley Lab, Department of Biomedical Engineering, University of Rochester (_January 2022 - Present_)**
 - Developed 3D-printed indentation hardware and algorithms for linear regression with iterative optimization
