@@ -11,6 +11,7 @@
 - Cluster, Introduction to Spanish Studies 
 
 ![Femur Model](/images/Femur_3D_modeling.png)
+![Femur Force Distribution](/images/Force.png)
 3D Proximal Femur Model for Force Analysis Using Abaqus CAE
 
 ## Work Experience
