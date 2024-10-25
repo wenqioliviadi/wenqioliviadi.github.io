@@ -1,4 +1,4 @@
-/* 基础样式 */
+/* 基本样式 */
 body {
   margin: 0;
   font-family: Arial, sans-serif;
@@ -17,16 +17,15 @@ body.dark-mode {
   color: #ffffff;
 }
 
-/* 页面内容布局 */
+/* 布局：侧边栏 + 主内容 */
 .content {
   display: flex;
-  flex-wrap: wrap;
   min-height: 100vh;
 }
 
 /* 侧边栏样式 */
 .sidebar {
-  flex: 1 1 30%; /* 侧边栏占页面 30% */
+  width: 25%; /* 左侧占 25% */
   max-width: 300px;
   padding: 20px;
   text-align: center;
@@ -39,11 +38,12 @@ body.dark-mode .sidebar {
 
 /* 主内容样式 */
 .main-content {
-  flex: 1 1 70%; /* 主内容占页面 70% */
+  width: 75%; /* 右侧占 75% */
   padding: 20px;
+  overflow: auto;
 }
 
-/* 确保图片样式统一 */
+/* 确保图片适应圆形并居中 */
 .sidebar img {
   border-radius: 50%;
   width: 150px;
@@ -51,14 +51,14 @@ body.dark-mode .sidebar {
   object-fit: cover;
 }
 
-/* 在小屏幕上调整布局 */
+/* 在小屏幕上变成垂直布局 */
 @media (max-width: 768px) {
   .content {
     flex-direction: column;
   }
 
   .sidebar, .main-content {
-    width: 100%;
+    width: 100%; /* 占据整个屏幕宽度 */
   }
 }
 
