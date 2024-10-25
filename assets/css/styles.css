@@ -52,7 +52,7 @@ body.dark-mode .sidebar {
   margin-bottom: 15px;
 }
 
-/* 侧边栏段落样式 */
+/* 侧边栏段落 */
 .sidebar p {
   max-width: 80%;
   margin: 0 auto;
@@ -87,19 +87,17 @@ body.dark-mode .sidebar {
   overflow: auto;
 }
 
-/* 图像容器样式 */
+/* 图像容器 */
 .image-container {
-  max-width: 400px; /* 限制图片容器的最大宽度 */
-  width: 100%; /* 图片容器占满父级宽度 */
-  margin: 20px auto; /* 居中对齐容器 */
+  max-width: 40%; /* 将图像容器限制为 40% */
+  margin: 20px auto; /* 居中容器 */
   text-align: center;
 }
 
 .image-container img {
-  max-width: 100%; /* 图片占满容器宽度 */
+  max-width: 100%; /* 图片占满容器 */
   height: auto;
   display: block;
-  margin: 0 auto; /* 图片居中 */
 }
 
 .image-container figcaption {
@@ -124,11 +122,6 @@ body.dark-mode .sidebar {
   }
 
   .image-container {
-    max-width: 80%; /* 小屏幕上图片容器占 80% 宽度 */
+    max-width: 60%; /* 小屏幕时图片容器占 60% */
   }
 }
-
-
-
-
-
