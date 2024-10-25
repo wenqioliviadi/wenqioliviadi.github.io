@@ -1,4 +1,4 @@
-/* Basic Styles */
+/* 基本样式 */
 body {
   margin: 0;
   padding: 0;
@@ -6,25 +6,25 @@ body {
   transition: background-color 0.3s, color 0.3s;
 }
 
-/* Light Mode */
+/* 白天模式 */
 body {
   background-color: #ffffff;
   color: #000000;
 }
 
-/* Dark Mode */
+/* 夜间模式 */
 body.dark-mode {
   background-color: #1e1e1e;
   color: #ffffff;
 }
 
-/* Layout: Sidebar + Main Content */
+/* 布局：侧边栏 + 主内容 */
 .content {
   display: flex;
   min-height: 100vh;
 }
 
-/* Fixed Sidebar */
+/* 侧边栏样式 */
 .sidebar {
   width: 25%;
   max-width: 300px;
@@ -43,7 +43,7 @@ body.dark-mode .sidebar {
   background-color: #333;
 }
 
-/* Sidebar Image */
+/* 头像样式 */
 .sidebar img {
   border-radius: 50%;
   width: 120px;
@@ -52,7 +52,7 @@ body.dark-mode .sidebar {
   margin-bottom: 15px;
 }
 
-/* Sidebar Paragraph */
+/* 侧边栏段落样式 */
 .sidebar p {
   max-width: 80%;
   margin: 0 auto;
@@ -60,7 +60,7 @@ body.dark-mode .sidebar {
   line-height: 1.6;
 }
 
-/* LinkedIn Icon */
+/* LinkedIn 图标 */
 .linkedin-icon {
   display: block;
   margin: 15px auto;
@@ -79,7 +79,7 @@ body.dark-mode .sidebar {
   transform: scale(1.2);
 }
 
-/* Main Content */
+/* 主内容部分 */
 .main-content {
   margin-left: 25%;
   width: 75%;
@@ -87,18 +87,19 @@ body.dark-mode .sidebar {
   overflow: auto;
 }
 
-/* Image Container */
+/* 图像容器样式 */
 .image-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin: 20px 0;
+  max-width: 400px; /* 限制图片容器的最大宽度 */
+  width: 100%; /* 图片容器占满父级宽度 */
+  margin: 20px auto; /* 居中对齐容器 */
+  text-align: center;
 }
 
 .image-container img {
-  max-width: 40%; /* Further reduce the image size */
+  max-width: 100%; /* 图片占满容器宽度 */
   height: auto;
   display: block;
+  margin: 0 auto; /* 图片居中 */
 }
 
 .image-container figcaption {
@@ -108,7 +109,7 @@ body.dark-mode .sidebar {
   text-align: center;
 }
 
-/* Responsive Design */
+/* 响应式设计 */
 @media (max-width: 768px) {
   .sidebar {
     position: relative;
@@ -122,10 +123,11 @@ body.dark-mode .sidebar {
     width: 100%;
   }
 
-  .image-container img {
-    max-width: 60%; /* On small screens, allow images to be larger */
+  .image-container {
+    max-width: 80%; /* 小屏幕上图片容器占 80% 宽度 */
   }
 }
+
 
 
 
