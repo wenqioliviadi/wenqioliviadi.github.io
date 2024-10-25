@@ -1,4 +1,4 @@
-/* 基本样式 */
+/* 基础样式 */
 body {
   margin: 0;
   padding: 0;
@@ -6,43 +6,64 @@ body {
   transition: background-color 0.3s, color 0.3s;
 }
 
-/* 布局：侧边栏 + 主内容 */
+/* 白天模式 */
+body {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+/* 夜间模式 */
+body.dark-mode {
+  background-color: #1e1e1e;
+  color: #ffffff;
+}
+
+/* 布局：固定侧边栏 + 主内容 */
 .content {
   display: flex;
   min-height: 100vh;
 }
 
-/* 侧边栏样式 */
+/* 固定侧边栏样式 */
 .sidebar {
-  width: 25%;
+  width: 25%; /* 侧边栏占页面宽度的 25% */
   max-width: 300px;
-  padding: 30px 20px;
+  padding: 30px 20px; /* 增加内边距 */
   text-align: center;
   background-color: #f5f5f5;
   position: fixed;
   top: 0;
   left: 0;
-  height: 100vh;
-  overflow-y: auto;
+  height: 100vh; /* 占满页面高度 */
+  overflow-y: auto; /* 如果内容超出则滚动 */
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1); /* 添加阴影 */
 }
 
 body.dark-mode .sidebar {
   background-color: #333;
 }
 
-/* 头像样式 */
+/* 头像图片样式 */
 .sidebar img {
-  border-radius: 50%;
+  border-radius: 50%; /* 圆形头像 */
   width: 120px;
   height: 120px;
   object-fit: cover;
-  margin-bottom: 15px;
+  margin-bottom: 15px; /* 增加头像和段落之间的间距 */
 }
 
-/* LinkedIn 图标 */
+/* 侧边栏段落样式 */
+.sidebar p {
+  max-width: 80%; /* 限制段落的宽度 */
+  margin: 0 auto;
+  margin-top: 10px;
+  line-height: 1.6; /* 提高行间距 */
+}
+
+/* LinkedIn 图标样式 */
 .linkedin-icon {
   display: block;
-  margin: 15px auto;
+  margin: 15px auto; /* 居中并增加与段落的间距 */
   width: 30px;
   height: 30px;
 }
@@ -51,41 +72,34 @@ body.dark-mode .sidebar {
   max-width: 100%;
   height: auto;
   display: block;
+  transition: transform 0.3s ease; /* 鼠标悬停动画 */
 }
 
-/* 主内容部分 */
+/* 鼠标悬停时放大效果 */
+.linkedin-icon img:hover {
+  transform: scale(1.2);
+}
+
+/* 主内容部分样式 */
 .main-content {
-  margin-left: 25%;
+  margin-left: 25%; /* 为主内容留出侧边栏空间 */
   width: 75%;
   padding: 20px;
+  overflow: auto;
 }
 
-/* 图像容器 */
-.image-container {
-  max-width: 80%; /* 图像容器的最大宽度设置为 80% */
-  margin: 20px auto;
-  text-align: center;
-}
-
-.image-container img {
-  max-width: 100%; /* 图片占满容器宽度 */
+/* 主内容中的图片 */
+.main-content img {
+  max-width: 50%; /* 图片缩小至 50% */
   height: auto;
-  display: block;
-  border-radius: 10px; /* 可选：为图片添加圆角 */
-}
-
-.image-container figcaption {
-  margin-top: 10px;
-  font-size: 14px;
-  color: #555;
-  text-align: center;
+  margin: 20px auto;
 }
 
 /* 响应式设计 */
 @media (max-width: 768px) {
   .sidebar {
     position: relative;
-    width: 100%;
+    width: 100%; /* 小屏幕时占满宽度 */
     height: auto;
     margin-bottom: 20px;
   }
@@ -95,8 +109,7 @@ body.dark-mode .sidebar {
     width: 100%;
   }
 
-  .image-container {
-    max-width: 90%; /* 小屏幕时图片容器占 90% */
+  .main-content img {
+    max-width: 70%; /* 小屏幕时图片占 70% */
   }
 }
-
