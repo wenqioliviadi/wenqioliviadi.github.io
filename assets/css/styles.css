@@ -1,21 +1,51 @@
-
+/* 默认白天模式样式 */
 body {
   background-color: #ffffff;
   color: #000000;
   transition: background-color 0.3s, color 0.3s;
 }
 
-
+/* 夜间模式样式 */
 body.dark-mode {
   background-color: #1e1e1e;
   color: #ffffff;
 }
 
-
-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 10px 20px;
+/* 确保左侧内容在夜间模式下可见 */
+body.dark-mode header, 
+body.dark-mode .sidebar {
+  background-color: #333;
+  color: #ffffff;
 }
+
+/* 左侧头像及简介的布局 */
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+/* 确保头像在夜间模式中正常显示 */
+.sidebar img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+/* 控制不同屏幕尺寸下的布局 */
+@media (min-width: 768px) {
+  .content {
+    display: flex;
+    flex-direction: row;
+  }
+  .sidebar {
+    width: 30%;
+  }
+  .main-content {
+    width: 70%;
+  }
+}
+
 
