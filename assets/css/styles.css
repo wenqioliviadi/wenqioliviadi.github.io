@@ -52,7 +52,7 @@ body.dark-mode .sidebar {
   margin-bottom: 15px;
 }
 
-/* 侧边栏段落 */
+/* 侧边栏段落样式 */
 .sidebar p {
   max-width: 80%;
   margin: 0 auto;
@@ -60,7 +60,7 @@ body.dark-mode .sidebar {
   line-height: 1.6;
 }
 
-/* LinkedIn 图标 */
+/* LinkedIn 图标样式 */
 .linkedin-icon {
   display: block;
   margin: 15px auto;
@@ -87,15 +87,15 @@ body.dark-mode .sidebar {
   overflow: auto;
 }
 
-/* 图像容器 */
+/* 图像容器样式 */
 .image-container {
-  max-width: 40%; /* 将图像容器限制为 40% */
-  margin: 20px auto; /* 居中容器 */
+  max-width: 30%; /* 强制图片最大宽度为 30% */
+  margin: 20px auto;
   text-align: center;
 }
 
 .image-container img {
-  max-width: 100%; /* 图片占满容器 */
+  width: 100%; /* 图片占满容器宽度 */
   height: auto;
   display: block;
 }
@@ -122,6 +122,7 @@ body.dark-mode .sidebar {
   }
 
   .image-container {
-    max-width: 60%; /* 小屏幕时图片容器占 60% */
+    max-width: 50%; /* 小屏幕时图片最大宽度为 50% */
   }
 }
+
