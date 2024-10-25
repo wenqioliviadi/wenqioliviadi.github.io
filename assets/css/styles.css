@@ -1,32 +1,49 @@
-/* 默认白天模式样式 */
+/* 基础样式 */
 body {
-  background-color: #ffffff;
-  color: #000000;
+  margin: 0;
+  font-family: Arial, sans-serif;
   transition: background-color 0.3s, color 0.3s;
 }
 
-/* 夜间模式样式 */
+/* 白天模式 */
+body {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+/* 夜间模式 */
 body.dark-mode {
   background-color: #1e1e1e;
   color: #ffffff;
 }
 
-/* 确保左侧内容在夜间模式下可见 */
-body.dark-mode header, 
-body.dark-mode .sidebar {
-  background-color: #333;
-  color: #ffffff;
+/* 页面内容布局 */
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  min-height: 100vh;
 }
 
-/* 左侧头像及简介的布局 */
+/* 侧边栏样式 */
 .sidebar {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex: 1 1 30%; /* 侧边栏占页面 30% */
+  max-width: 300px;
+  padding: 20px;
+  text-align: center;
+  background-color: #f5f5f5;
+}
+
+body.dark-mode .sidebar {
+  background-color: #333;
+}
+
+/* 主内容样式 */
+.main-content {
+  flex: 1 1 70%; /* 主内容占页面 70% */
   padding: 20px;
 }
 
-/* 确保头像在夜间模式中正常显示 */
+/* 确保图片样式统一 */
 .sidebar img {
   border-radius: 50%;
   width: 150px;
@@ -34,17 +51,14 @@ body.dark-mode .sidebar {
   object-fit: cover;
 }
 
-/* 控制不同屏幕尺寸下的布局 */
-@media (min-width: 768px) {
+/* 在小屏幕上调整布局 */
+@media (max-width: 768px) {
   .content {
-    display: flex;
-    flex-direction: row;
+    flex-direction: column;
   }
-  .sidebar {
-    width: 30%;
-  }
-  .main-content {
-    width: 70%;
+
+  .sidebar, .main-content {
+    width: 100%;
   }
 }
 
