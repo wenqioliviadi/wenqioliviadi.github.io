@@ -1,31 +1,32 @@
-/* 基本样式 */
+/* Base styling for the website */
 body {
   margin: 0;
+  padding: 0;
   font-family: Arial, sans-serif;
   transition: background-color 0.3s, color 0.3s;
 }
 
-/* 白天模式 */
+/* Default light mode */
 body {
   background-color: #ffffff;
   color: #000000;
 }
 
-/* 夜间模式 */
+/* Dark mode styles */
 body.dark-mode {
   background-color: #1e1e1e;
   color: #ffffff;
 }
 
-/* 布局：侧边栏 + 主内容 */
+/* Main layout: Sidebar + Main Content */
 .content {
   display: flex;
   min-height: 100vh;
 }
 
-/* 侧边栏样式 */
+/* Sidebar styling */
 .sidebar {
-  width: 25%; /* 左侧占 25% */
+  width: 25%; /* Sidebar takes 25% of the page */
   max-width: 300px;
   padding: 20px;
   text-align: center;
@@ -36,30 +37,50 @@ body.dark-mode .sidebar {
   background-color: #333;
 }
 
-/* 主内容样式 */
+/* Main content styling */
 .main-content {
-  width: 75%; /* 右侧占 75% */
+  width: 75%; /* Main content takes 75% of the page */
   padding: 20px;
-  overflow: auto;
+  overflow: auto; /* Ensure scrollability if content overflows */
 }
 
-/* 确保图片适应圆形并居中 */
-.sidebar img {
-  border-radius: 50%;
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
+/* General image styling */
+img {
+  max-width: 100%; /* Images should not exceed container width */
+  height: auto; /* Maintain aspect ratio */
+  display: block;
+  margin: 10px auto; /* Center images with some margin */
 }
 
-/* 在小屏幕上变成垂直布局 */
+/* Specific styling for images inside main content */
+.main-content img {
+  max-width: 80%; /* Scale down to 80% width of content */
+  height: auto; /* Maintain aspect ratio */
+  margin: 20px auto; /* Add space around images */
+}
+
+/* Ensure layout is responsive for smaller screens */
 @media (max-width: 768px) {
   .content {
-    flex-direction: column;
+    flex-direction: column; /* Stack sidebar and content vertically */
   }
 
   .sidebar, .main-content {
-    width: 100%; /* 占据整个屏幕宽度 */
+    width: 100%; /* Full width for both sidebar and content */
+  }
+
+  .main-content img {
+    max-width: 100%; /* Use full width on small screens */
   }
 }
+
+/* Styling for sidebar images */
+.sidebar img {
+  border-radius: 50%; /* Make the image circular */
+  width: 150px;
+  height: 150px;
+  object-fit: cover; /* Ensure the image fits within the circle */
+}
+
 
 
