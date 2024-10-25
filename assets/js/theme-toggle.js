@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // 创建切换按钮并添加到页面顶部
   const toggleButton = document.createElement("button");
-  toggleButton.innerText = "Toggle Dark Mode";
+  toggleButton.innerText = "Switch Mode";
   toggleButton.style.position = "fixed";
   toggleButton.style.top = "10px";
   toggleButton.style.right = "10px";
