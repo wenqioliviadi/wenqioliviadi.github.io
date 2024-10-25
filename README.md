@@ -20,6 +20,8 @@
 <br>
 ![GCSP](/images/GCSP.png)
 <br>
+![GCSP](/images/GCSPN.jpg)
+<br>
 Poster for National Academy of Engineers Grand Challenge Scholars Program
 ![GCSP2](/images/GCSP_Presentation.jpeg)
 <br>
