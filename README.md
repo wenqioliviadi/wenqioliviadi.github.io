@@ -20,7 +20,8 @@
 Poster for National Academy of Engineers Grand Challenge Scholars Program
 ![GCSP2](/images/GCSP_Presentation.jpeg)
 <br>
-Been selected as one of the seven candidates (Undergraduates & Graduates) to present at USC Viterbi School of Engineering 
+Been selected as one of the seven candidates (Undergraduates & Graduates) to present at USC Viterbi School of Engineering
+<br>
 3. **Di, W.**, Poster Presentation, GCSP Annual Meeting, February 2024, Los Angeles, CA
 
 ## Research Experience
