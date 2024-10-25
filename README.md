@@ -127,8 +127,6 @@ Co-hosting Club Recruitment Event at the Student Club Fair
 
 ## Fun Facts: when I'm not doing research you can usually find me...
 ### Traditional Chinese Dancing 
-![Traditional Chinese Dancing 1](/images/zgw_hyj.PNG)
-Club Annual Showcase
 ![Traditional Chinese Dancing 2](/images/zgw_zcf.jpeg)
 Annual Diversity Show 2022 (Freshman Orientation Week)
 ### Badminton
