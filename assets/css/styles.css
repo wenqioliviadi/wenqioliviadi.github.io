@@ -24,7 +24,7 @@ body.dark-mode {
   min-height: 100vh;
 }
 
-/* 固定侧边栏样式 */
+/* 侧边栏样式 */
 .sidebar {
   width: 25%; 
   max-width: 300px;
@@ -42,7 +42,7 @@ body.dark-mode .sidebar {
   background-color: #333;
 }
 
-/* 侧边栏内头像样式 */
+/* 头像图片 */
 .sidebar img {
   border-radius: 50%; 
   width: 120px;
@@ -51,13 +51,15 @@ body.dark-mode .sidebar {
   margin-bottom: 15px;
 }
 
+/* 侧边栏文字样式 */
 .sidebar p {
   max-width: 80%; 
   margin: 0 auto;
   margin-top: 10px;
-  line-height: 1.6; 
+  line-height: 1.6;
 }
 
+/* LinkedIn 图标 */
 .linkedin-icon {
   display: block;
   margin: 15px auto;
@@ -76,34 +78,39 @@ body.dark-mode .sidebar {
   transform: scale(1.2);
 }
 
-/* 主内容部分样式 */
+/* 主内容部分 */
 .main-content {
   margin-left: 25%; 
   width: 75%;
   padding: 20px;
   overflow: auto;
-  text-align: left; /* 左对齐主内容 */
 }
 
-/* 图片上方和下方文字 */
+/* 确保每块元素独占一行 */
 .text-above, 
-.text-below {
-  margin: 15px 0;
-  width: 100%; 
-  text-align: left; /* 确保文字左对齐 */
+.text-below, 
+.image-container {
+  width: 100%;  /* 占满整行 */
+  margin-bottom: 20px;
 }
 
-/* 图片容器和图片样式 */
+/* 上下方文字 */
+.text-above p, 
+.text-below p {
+  text-align: left;  /* 左对齐文字 */
+  margin: 0;
+}
+
+/* 图片容器 */
 .image-container {
-  margin: 20px 0; 
-  text-align: center; /* 图片居中，但不影响文字 */
+  text-align: center;  /* 图片居中 */
 }
 
 .image-container img {
-  display: block; 
-  margin: 0 auto; 
-  max-width: 50%; 
-  height: auto;
+  display: block;  /* 块级元素 */
+  margin: 0 auto;  /* 水平居中 */
+  max-width: 60%;  /* 限制图片宽度 */
+  height: auto;    /* 保持图片比例 */
 }
 
 /* 响应式设计 */
@@ -112,4 +119,16 @@ body.dark-mode .sidebar {
     position: relative;
     width: 100%; 
     height: auto;
-    margin-bottom:
+    margin-bottom: 20px;
+  }
+
+  .main-content {
+    margin-left: 0;
+    width: 100%;
+  }
+
+  .image-container img {
+    max-width: 80%;  /* 小屏幕时图片占 80% */
+  }
+}
+
