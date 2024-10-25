@@ -1,4 +1,4 @@
-/* 基础样式 */
+/* Basic Styles */
 body {
   margin: 0;
   padding: 0;
@@ -6,25 +6,25 @@ body {
   transition: background-color 0.3s, color 0.3s;
 }
 
-/* 白天模式 */
+/* Light Mode */
 body {
   background-color: #ffffff;
   color: #000000;
 }
 
-/* 夜间模式 */
+/* Dark Mode */
 body.dark-mode {
   background-color: #1e1e1e;
   color: #ffffff;
 }
 
-/* 布局：固定侧边栏 + 主内容 */
+/* Layout: Sidebar + Main Content */
 .content {
   display: flex;
   min-height: 100vh;
 }
 
-/* 固定侧边栏样式 */
+/* Fixed Sidebar */
 .sidebar {
   width: 25%;
   max-width: 300px;
@@ -43,7 +43,7 @@ body.dark-mode .sidebar {
   background-color: #333;
 }
 
-/* 头像样式 */
+/* Sidebar Image */
 .sidebar img {
   border-radius: 50%;
   width: 120px;
@@ -52,7 +52,7 @@ body.dark-mode .sidebar {
   margin-bottom: 15px;
 }
 
-/* 段落样式 */
+/* Sidebar Paragraph */
 .sidebar p {
   max-width: 80%;
   margin: 0 auto;
@@ -60,7 +60,7 @@ body.dark-mode .sidebar {
   line-height: 1.6;
 }
 
-/* LinkedIn 图标样式 */
+/* LinkedIn Icon */
 .linkedin-icon {
   display: block;
   margin: 15px auto;
@@ -79,7 +79,7 @@ body.dark-mode .sidebar {
   transform: scale(1.2);
 }
 
-/* 主内容样式 */
+/* Main Content */
 .main-content {
   margin-left: 25%;
   width: 75%;
@@ -87,7 +87,7 @@ body.dark-mode .sidebar {
   overflow: auto;
 }
 
-/* 图像容器样式 */
+/* Image Container */
 .image-container {
   display: flex;
   flex-direction: column;
@@ -96,7 +96,7 @@ body.dark-mode .sidebar {
 }
 
 .image-container img {
-  max-width: 50%; /* 缩小图片到 50% */
+  max-width: 40%; /* Further reduce the image size */
   height: auto;
   display: block;
 }
@@ -108,7 +108,7 @@ body.dark-mode .sidebar {
   text-align: center;
 }
 
-/* 响应式设计 */
+/* Responsive Design */
 @media (max-width: 768px) {
   .sidebar {
     position: relative;
@@ -123,7 +123,7 @@ body.dark-mode .sidebar {
   }
 
   .image-container img {
-    max-width: 70%; /* 小屏幕时图片占 70% */
+    max-width: 60%; /* On small screens, allow images to be larger */
   }
 }
 
