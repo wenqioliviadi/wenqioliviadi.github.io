@@ -21,7 +21,7 @@ Poster for National Academy of Engineers Grand Challenge Scholars Program
 ![GCSP2](/images/GCSP_Presentation.jpeg)
 <br>
 Been selected as one of the seven candidates (Undergraduates & Graduates) to present at USC Viterbi School of Engineering 
-5. **Di, W.**, Poster Presentation, GCSP Annual Meeting, February 2024, Los Angeles, CA
+3. **Di, W.**, Poster Presentation, GCSP Annual Meeting, February 2024, Los Angeles, CA
 
 ## Research Experience
 **Research Assitant @ Buckley Lab, Department of Biomedical Engineering, University of Rochester (_January 2022 - Present_)**
