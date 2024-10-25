@@ -35,7 +35,7 @@ body.dark-mode {
   top: 0;
   left: 0;
   height: 100vh; /* 占满页面高度 */
-  overflow-y: auto; /* 如果内容超出则滚动 */
+  overflow-y: auto;
   box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1); /* 添加阴影 */
 }
 
@@ -88,14 +88,28 @@ body.dark-mode .sidebar {
   overflow: auto;
 }
 
-/* 主内容中的图片 */
-.main-content img {
-  max-width: 50%; /* 图片缩小至 50% */
-  height: auto;
-  margin: 20px auto;
+/* 图像容器样式 */
+.image-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px 0; /* 在每个图片块之间添加间距 */
 }
 
-/* 响应式设计 */
+.image-container img {
+  max-width: 80%; /* 限制图片宽度为容器的 80% */
+  height: auto;
+  display: block;
+}
+
+.image-container figcaption {
+  margin-top: 10px; /* 添加图片与文字之间的间距 */
+  font-size: 14px;
+  color: #555;
+  text-align: center; /* 文本居中对齐 */
+}
+
+/* 响应式设计：小屏幕布局 */
 @media (max-width: 768px) {
   .sidebar {
     position: relative;
@@ -109,12 +123,10 @@ body.dark-mode .sidebar {
     width: 100%;
   }
 
-  .main-content img {
-    max-width: 70%; /* 小屏幕时图片占 70% */
+  .image-container img {
+    max-width: 100%; /* 小屏幕时图片占满宽度 */
   }
 }
-
-
 
 
 
