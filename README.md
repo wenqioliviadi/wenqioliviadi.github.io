@@ -24,7 +24,6 @@ Poster for National Academy of Engineers Grand Challenge Scholars Program
 ![GCSP2](/images/GCSP_Presentation.jpeg)
 <be>
 ![GCSP](/images/GCSPN.jpg)
-<br>
 Been selected as one of the seven candidates (Undergraduates & Graduates) to present at USC Viterbi School of Engineering
 
 ## Research Experience
