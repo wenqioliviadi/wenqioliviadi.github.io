@@ -82,7 +82,7 @@ body.dark-mode .sidebar {
   width: 75%;
   padding: 20px;
   overflow: auto;
-  text-align: right; /* 居中对齐主内容 */
+  text-align: left; 
 }
 
 /* 图片上方和下方文字 */
