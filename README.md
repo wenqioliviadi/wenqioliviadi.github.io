@@ -12,6 +12,7 @@
 
 ![Femur Model](/images/Femur_3D_modeling.png)
 ![Femur Force Distribution](/images/Force.png)
+
 3D Proximal Femur Model for Force Analysis Using Abaqus CAE
 
 ## Work Experience
@@ -49,8 +50,10 @@
 - **Hardware**:
 - Design-test-build extrusion parts of the dual-channeled 3D printer using **Onshape**
 ![Hardware1](/images/extruder1.png)
+
 3D Bioprinter Extrusion Head CAD Model Frontal Plane
 ![Hardware2](/images/extruder2.png)
+
 3D Bioprinter Extrusion Head CAD Model Back Plane
 
 - Performed tensile test 4% alginate dog bone shape structure 3D printed cultured with E.coli and analyzed the stiffness, maximum force applied, cross-sectional area, and ultimate tensile strength analyzed of three different sample groups
@@ -65,8 +68,10 @@
 ## Projects
 ### 3D Parallel Bio-printing System for Optimizing Biomanufacturing Processes
 ![iGEM Pic1](/images/iGEM1.jpeg)
+
 Biomanufacturing Village, iGEM Annual Grand Jamboree, Paris, France 
 ![iGEM Pic2](/images/iGEM2.jpeg)
+
 Team Picture, iGEM Annual Grand Jamboree, Paris, France 
 
 To learn more about the project:
@@ -89,6 +94,7 @@ To learn more about the project:
 
 ### Effects of Macromolecular Infiltration on the Mechanical Properties of Synthetic Cartilage
 ![BMES](/images/BMES.jpeg)
+
 Poster Presentation, Biomedical Engineering Annual Meeting 2023, Seattle, WA
 [Publication (BMES 2023 Annual Conference)](https://2023bmesannual.eventscribe.net/fsPopup.asp?PosterID=606566&mode=posterInfo)
 -Performed indentation tests on the samples using a custom-built machine to measure how they respond to pressure
@@ -97,6 +103,7 @@ Poster Presentation, Biomedical Engineering Annual Meeting 2023, Seattle, WA
 
 ### Baja SAE Suspension Design & Validation 
 ![Baja](/images/Baja1.jpeg)
+
 Finite Element Analysis of the Baja Suspension Using SIEMENS NX
 
 - Design and enhance the Baja car suspension system for the 2023 season to improve dynamic performance across various competition courses, increase reliability for a 4-hour endurance race, and optimize weight reduction
@@ -112,13 +119,16 @@ Finite Element Analysis of the Baja Suspension Using SIEMENS NX
 1. **Di, W.**, et al, Poster Presentation, Undergraduate Research Symposium, April 2023, Rochester, NY
 2. **Di, W.**, et al, Poster Presentation, Biomedical Engineering Society Annual Meeting, October 2023, Seattle, WA
 ![GCSP](/images/GCSP.png)
+
 Poster for National Academy of Engineers Grand Challenge Scholars Program
 ![GCSP2](/images/GCSP_Presentation.jpeg)
+
 Been selected as one of the seven candidates (Undergraduates & Graduates) to present at USC Viterbi School of Engineering 
 4. **Di, W.**, Poster Presentation, GCSP Annual Meeting, February 2024, Los Angeles, CA
 
 ## Leadership Experiences
 ![URBMES](/images/BMESClubFair.jpeg)
+
 Co-hosting Club Recruitment Event at the Student Club Fair
 - **Vice President**, Biomedical Engineering Society University of Rochester Chapter – Rochester, NY, USA. 04/2023 – 12/2023
 - **Publicity Chair**, Biomedical Engineering Society University of Rochester Chapter – Rochester, NY, USA. 01/2022 – 04/2023
@@ -128,6 +138,7 @@ Co-hosting Club Recruitment Event at the Student Club Fair
 ## Fun Facts: when I'm not doing research you can usually find me...
 ### Traditional Chinese Dancing 
 ![Traditional Chinese Dancing 2](/images/zgw_zcf.jpeg)
+
 Annual Diversity Show 2022 (Freshman Orientation Week)
 ### Badminton
 ![Badminton](/images/Badminton.jpeg)
@@ -140,11 +151,13 @@ Annual Diversity Show 2022 (Freshman Orientation Week)
 ### Fencing
 ![Fencing](/images/fencing1.JPG)
 ![Fencing2](/images/fencing2.JPG)
+
 Varsity Fencing (épée)
 Jan 2017 - Jan 2018
 ### Graphic Design
 ![Graphic Design](/images/GraphicDesign.JPG)
 ### Photography
 ![Photography](/images/pgraph.JPG)
+
 Spring in Rochester, NY 2024
 
