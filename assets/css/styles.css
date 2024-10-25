@@ -24,9 +24,9 @@ body.dark-mode {
   min-height: 100vh;
 }
 
-/* 侧边栏样式 */
+/* 侧边栏 */
 .sidebar {
-  width: 25%; 
+  width: 25%;
   max-width: 300px;
   padding: 30px 20px;
   background-color: #f5f5f5;
@@ -44,16 +44,16 @@ body.dark-mode .sidebar {
 
 /* 头像图片 */
 .sidebar img {
-  border-radius: 50%; 
+  border-radius: 50%;
   width: 120px;
   height: 120px;
   object-fit: cover;
   margin-bottom: 15px;
 }
 
-/* 侧边栏文字样式 */
+/* 侧边栏段落 */
 .sidebar p {
-  max-width: 80%; 
+  max-width: 80%;
   margin: 0 auto;
   margin-top: 10px;
   line-height: 1.6;
@@ -80,44 +80,45 @@ body.dark-mode .sidebar {
 
 /* 主内容部分 */
 .main-content {
-  margin-left: 25%; 
+  margin-left: 25%;
   width: 75%;
   padding: 20px;
   overflow: auto;
 }
 
-/* 确保每块元素独占一行 */
+/* 强制每个元素独占一行 */
 .text-above, 
 .text-below, 
 .image-container {
-  width: 100%;  /* 占满整行 */
+  display: block;  /* 确保每个元素是块级元素 */
+  width: 100%;     /* 占满整行 */
   margin-bottom: 20px;
 }
 
-/* 上下方文字 */
+/* 上下文字左对齐 */
 .text-above p, 
 .text-below p {
-  text-align: left;  /* 左对齐文字 */
+  text-align: left;
   margin: 0;
 }
 
 /* 图片容器 */
 .image-container {
-  text-align: center;  /* 图片居中 */
+  text-align: center;
 }
 
 .image-container img {
-  display: block;  /* 块级元素 */
-  margin: 0 auto;  /* 水平居中 */
-  max-width: 60%;  /* 限制图片宽度 */
-  height: auto;    /* 保持图片比例 */
+  display: block;   /* 块级元素 */
+  margin: 0 auto;   /* 水平居中 */
+  max-width: 60%;   /* 限制图片宽度 */
+  height: auto;
 }
 
 /* 响应式设计 */
 @media (max-width: 768px) {
   .sidebar {
     position: relative;
-    width: 100%; 
+    width: 100%;
     height: auto;
     margin-bottom: 20px;
   }
