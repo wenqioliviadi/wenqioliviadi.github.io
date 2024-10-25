@@ -1,0 +1,21 @@
+/默认白天模式/
+body {
+  background-color: #ffffff;
+  color: #000000;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/夜间模式的样式/
+body.dark-mode {
+  background-color: #1e1e1e;
+  color: #ffffff;
+}
+
+/让标题和页面看起来更美观/
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+
