@@ -8,35 +8,26 @@
 ## Education | University of Rochester (_May 2025_)			        		
 - B.S., Bioengineering and Biomedical Engineering 
 - B.A., Economics 
-- Cluster, Introduction to Spanish Studies 
+- Cluster, Introduction to Spanish Studies
 
-![Femur Model](/images/Femur_3D_modeling.png)
-![Femur Force Distribution](/images/Force.png)
+## Conference / Symposium Presentations
+1. **Di, W.**, et al, Poster Presentation, Undergraduate Research Symposium, April 2023, Rochester, NY
+2. **Di, W.**, et al, Poster Presentation, Biomedical Engineering Society Annual Meeting, October 2023, Seattle, WA
+[Publication (BMES 2023 Annual Conference)](https://2023bmesannual.eventscribe.net/fsPopup.asp?PosterID=606566&mode=posterInfo)
 <br>
-3D Proximal Femur Model for Force Analysis Using Abaqus CAE
+![GCSP](/images/GCSP.png)
+<br>
+Poster for National Academy of Engineers Grand Challenge Scholars Program
+![GCSP2](/images/GCSP_Presentation.jpeg)
+<br>
+Been selected as one of the seven candidates (Undergraduates & Graduates) to present at USC Viterbi School of Engineering 
+5. **Di, W.**, Poster Presentation, GCSP Annual Meeting, February 2024, Los Angeles, CA
 
-## Work Experience
+## Research Experience
 **Research Assitant @ Buckley Lab, Department of Biomedical Engineering, University of Rochester (_January 2022 - Present_)**
 - Developed 3D-printed indentation hardware and algorithms for linear regression with iterative optimization
 - Conducted data collection, processing, and analysis for the novel study evaluating how the infiltration of albumin-sized macromolecules and larger microspheres may affect the permeability of agarose hydrogels
-- Help other members with their projects, fabricate, and modify lab experiment equipment if needed 
-
-**Business Analyst Intern @ McKinsey & Company (_June 2024 - Present_)**
-- Collaborated with senior consultants to develop a comprehensive strategy for transitioning a major real estate firm into the renewable energy sector
-- Conducted in-depth market research to identify potential opportunities and challenges within the energy market, focusing on renewable energy
-- Engaged with key stakeholders, including company executives, industry experts, and potential partners, to gather insights and feedback
-- Help develop proposals for sustainable building practices and energy-efficient technologies to be integrated into the company’s real estate portfolio
-
-**Internatonal Sales @ Changzhou Hershey-Power New Energy - part-time (_May 2024 - Present_)**
-- Led the launch of solar module and panel sales projects in Dubai and Osaka, Japan, ensuring timely and successful market entry. Successfully helped the company launch solar module and panel sales in Dubai and Osaka, achieving a 20% increase in regional sales.
-- Facilitated communication between English and Chinese-speaking team members, ensuring clear and effective collaboration across language barriers for clear and effective communication
-- Conducted comprehensive market research to understand regional demand, regulatory requirements, and competitive landscape in both Dubai and Osaka. Designed and implemented targeted sales and marketing strategies to promote solar modules and panels, leveraging local insights and market trends.
-- Attendee of the 17th (2024) International Photovoltaic Power Generation and Smart Energy Exhibition in Shanghai
-
-**Office Assistant @ GCP Office, Changzhou No.2 People's Hospital (_January 2024_)**
-- Learned different projects of clinical trial I, II, III, and IV (in collaboration with other big medical companies such as Johnson & Johnson) under the guidance of Dr. Wenjia Liu, Associate Chief Physician, the M.D., and the Deputy Director of the Gastroenterology Department, The Affiliated Changzhou No.2 People’s Hospital of Nanjing Medical University.
-- Shadowed Dr. Wenjia Liu for patients with Crohn's disease and helped record documenting findings from patient exams and assessments
-- Helped integrate data & non-statistical information for projects of different clinical trial stages for ethics review meetings by developing a new information input system using Excel greatly increased the working efficiency
+- Help other members with their projects, fabricate, and modify lab experiment equipment if needed
 
 **Researcher @ iGEM Rochester 2023, International Genetically Engineered Machine (_February 2023 - December 2023_)**
 - **Wetlab**:
@@ -58,14 +49,14 @@
 
 - Performed tensile test 4% alginate dog bone shape structure 3D printed cultured with E.coli and analyzed the stiffness, maximum force applied, cross-sectional area, and ultimate tensile strength analyzed of three different sample groups
 [Publication](https://2023.igem.wiki/rochester/hardware)
-  
-**Teaching Intern @ Department of Physics and Astronomy, University of Rochester (_January 2023 - May 2023_)**
-- Ran weekly course workshops, and review sessions; as well as answered student questions in the course.
 
-**Quality Assurance Quality Control Lab Technician @ Lepu Medical Technology (Beijing) Co., Ltd. (_March 2021 - April 2021_)**
-- Using meteorological spectroscopy to test anorectal staplers to ensure they are safe for human use 
+**Additional Modeling**  
+![Femur Model](/images/Femur_3D_modeling.png)
+![Femur Force Distribution](/images/Force.png)
+<br>
+3D Proximal Femur Model for Force Analysis Using Abaqus CAE
 
-## Projects
+## Projects Presentations
 ### 3D Parallel Bio-printing System for Optimizing Biomanufacturing Processes
 ![iGEM Pic1](/images/iGEM1.jpeg)
 <br>
@@ -96,10 +87,36 @@ To learn more about the project:
 ![BMES](/images/BMES.jpeg)
 <br>
 Poster Presentation, Biomedical Engineering Annual Meeting 2023, Seattle, WA
-[Publication (BMES 2023 Annual Conference)](https://2023bmesannual.eventscribe.net/fsPopup.asp?PosterID=606566&mode=posterInfo)
 -Performed indentation tests on the samples using a custom-built machine to measure how they respond to pressure
 -Analyzed the force data with a mathematical model to understand the material properties using **MATLAB**
 -Created a computer model using **FEBio** to simulate the gel's behavior and adjusted it until it matched the real-life test results
+
+
+
+## Work Experience
+**Business Analyst Intern @ McKinsey & Company (_June 2024 - Present_)**
+- Collaborated with senior consultants to develop a comprehensive strategy for transitioning a major real estate firm into the renewable energy sector
+- Conducted in-depth market research to identify potential opportunities and challenges within the energy market, focusing on renewable energy
+- Engaged with key stakeholders, including company executives, industry experts, and potential partners, to gather insights and feedback
+- Help develop proposals for sustainable building practices and energy-efficient technologies to be integrated into the company’s real estate portfolio
+
+**Internatonal Sales @ Changzhou Hershey-Power New Energy - part-time (_May 2024 - Present_)**
+- Led the launch of solar module and panel sales projects in Dubai and Osaka, Japan, ensuring timely and successful market entry. Successfully helped the company launch solar module and panel sales in Dubai and Osaka, achieving a 20% increase in regional sales.
+- Facilitated communication between English and Chinese-speaking team members, ensuring clear and effective collaboration across language barriers for clear and effective communication
+- Conducted comprehensive market research to understand regional demand, regulatory requirements, and competitive landscape in both Dubai and Osaka. Designed and implemented targeted sales and marketing strategies to promote solar modules and panels, leveraging local insights and market trends.
+- Attendee of the 17th (2024) International Photovoltaic Power Generation and Smart Energy Exhibition in Shanghai
+
+**Office Assistant @ GCP Office, Changzhou No.2 People's Hospital (_January 2024_)**
+- Learned different projects of clinical trial I, II, III, and IV (in collaboration with other big medical companies such as Johnson & Johnson) under the guidance of Dr. Wenjia Liu, Associate Chief Physician, the M.D., and the Deputy Director of the Gastroenterology Department, The Affiliated Changzhou No.2 People’s Hospital of Nanjing Medical University.
+- Shadowed Dr. Wenjia Liu for patients with Crohn's disease and helped record documenting findings from patient exams and assessments
+- Helped integrate data & non-statistical information for projects of different clinical trial stages for ethics review meetings by developing a new information input system using Excel greatly increased the working efficiency
+
+**Teaching Intern @ Department of Physics and Astronomy, University of Rochester (_January 2023 - May 2023_)**
+- Ran weekly course workshops, and review sessions; as well as answered student questions in the course.
+
+**Quality Assurance Quality Control Lab Technician @ Lepu Medical Technology (Beijing) Co., Ltd. (_March 2021 - April 2021_)**
+- Using meteorological spectroscopy to test anorectal staplers to ensure they are safe for human use 
+
 
 ### Baja SAE Suspension Design & Validation 
 ![Baja](/images/Baja1.jpeg)
@@ -114,17 +131,6 @@ Finite Element Analysis of the Baja Suspension Using SIEMENS NX
 ### Ongoing Independent Project - Advanced Mechanical Fabrication
 **Automated Electromechanical Mouse Hindlimb Loading Platform**
 - Design a motorized lever system that converts rotational motion into linear motion to rotate mouse hindlimbs for cartilage impingement experiments
-
-## Conference / Symposium Presentations
-1. **Di, W.**, et al, Poster Presentation, Undergraduate Research Symposium, April 2023, Rochester, NY
-2. **Di, W.**, et al, Poster Presentation, Biomedical Engineering Society Annual Meeting, October 2023, Seattle, WA
-![GCSP](/images/GCSP.png)
-<br>
-Poster for National Academy of Engineers Grand Challenge Scholars Program
-![GCSP2](/images/GCSP_Presentation.jpeg)
-<br>
-Been selected as one of the seven candidates (Undergraduates & Graduates) to present at USC Viterbi School of Engineering 
-4. **Di, W.**, Poster Presentation, GCSP Annual Meeting, February 2024, Los Angeles, CA
 
 ## Leadership Experiences
 ![URBMES](/images/BMESClubFair.jpeg)
