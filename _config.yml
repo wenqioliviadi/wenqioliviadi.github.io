@@ -1,14 +1,21 @@
 title: Wenqi Di
 logo: /images/Wenqi_circle.png
-description: I am Wenqi Olivia Di (狄文绮), a senior-year undergraduate student majoring in Biomedical Engineering at Hajim School of Engineering (Alpha Eta Mu Beta BME National Honor Society ’24), with a dual degree in Economics at the School of Arts & Sciences, University of Rochester. My research interests lie broadly in biomechanics and synthetic biology, especially topics related to biomaterials, pathology, and machinery design. 
+description: > 
+  I am Wenqi Olivia Di (狄文绮), a senior-year undergraduate student majoring in Biomedical Engineering at Hajim School of Engineering (Alpha Eta Mu Beta BME National Honor Society ’24), with a dual degree in Economics at the School of Arts & Sciences, University of Rochester. My research interests lie broadly in biomechanics and synthetic biology, especially topics related to biomaterials, pathology, and machinery design. 
 theme: jekyll-theme-minimal
 
-# 自定义 CSS 和 JS
+# Ensure Jekyll includes these files in the build
 markdown: kramdown
-plugins:
-  - jekyll-asset-pipeline
 
-# 引用自定义的 CSS 和 JS 文件
+# jekyll-asset-pipeline might not be required unless you have a specific build step.
+plugins:
+  - jekyll-seo-tag
+
+# Include custom CSS and JS files explicitly
 include:
   - assets/css/styles.css
   - assets/js/theme-toggle.js
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
