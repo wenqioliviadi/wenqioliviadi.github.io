@@ -18,7 +18,7 @@ body.dark-mode {
   color: #ffffff;
 }
 
-/* 布局：侧边栏 + 主内容 */
+/* 布局：固定侧边栏 + 主内容 */
 .content {
   display: flex;
   min-height: 100vh;
@@ -26,17 +26,17 @@ body.dark-mode {
 
 /* 固定侧边栏样式 */
 .sidebar {
-  width: 25%;
+  width: 25%; /* 侧边栏占页面宽度的 25% */
   max-width: 300px;
-  padding: 30px 20px;
+  padding: 30px 20px; /* 增加内边距 */
   text-align: center;
   background-color: #f5f5f5;
   position: fixed;
   top: 0;
   left: 0;
-  height: 100vh;
-  overflow-y: auto;
-  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+  height: 100vh; /* 占满页面高度 */
+  overflow-y: auto; /* 如果内容超出则滚动 */
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1); /* 添加阴影 */
 }
 
 body.dark-mode .sidebar {
@@ -45,25 +45,25 @@ body.dark-mode .sidebar {
 
 /* 头像图片样式 */
 .sidebar img {
-  border-radius: 50%;
+  border-radius: 50%; /* 圆形头像 */
   width: 120px;
   height: 120px;
   object-fit: cover;
-  margin-bottom: 15px;
+  margin-bottom: 15px; /* 增加头像和段落之间的间距 */
 }
 
 /* 侧边栏段落样式 */
 .sidebar p {
-  max-width: 80%;
+  max-width: 80%; /* 限制段落的宽度 */
   margin: 0 auto;
   margin-top: 10px;
-  line-height: 1.6;
+  line-height: 1.6; /* 提高行间距 */
 }
 
-/* LinkedIn 图标 */
+/* LinkedIn 图标样式 */
 .linkedin-icon {
   display: block;
-  margin: 15px auto;
+  margin: 15px auto; /* 居中并增加与段落的间距 */
   width: 30px;
   height: 30px;
 }
@@ -72,48 +72,34 @@ body.dark-mode .sidebar {
   max-width: 100%;
   height: auto;
   display: block;
+  transition: transform 0.3s ease; /* 鼠标悬停动画 */
 }
 
-/* 主内容样式 */
+/* 鼠标悬停时放大效果 */
+.linkedin-icon img:hover {
+  transform: scale(1.2);
+}
+
+/* 主内容部分样式 */
 .main-content {
-  margin-left: 25%;
+  margin-left: 25%; /* 为主内容留出侧边栏空间 */
   width: 75%;
   padding: 20px;
+  overflow: auto;
 }
 
-/* 图像容器样式 */
-.image-container {
-  max-width: 60%; /* 调整容器宽度 */
-  margin: 20px auto;
-  text-align: center;
-}
-
-.image-container img {
-  max-width: 100%;
+/* 主内容中的图片 */
+.main-content img {
+  max-width: 50%; /* 图片缩小至 50% */
   height: auto;
-  display: block;
-  margin-bottom: 10px;
-}
-
-.image-container figcaption {
-  margin-top: 10px;
-  font-size: 14px;
-  color: #555;
-  text-align: center;
-}
-
-.image-container p {
-  margin-top: 10px;
-  font-size: 16px;
-  text-align: justify;
-  line-height: 1.6;
+  margin: 20px auto;
 }
 
 /* 响应式设计 */
 @media (max-width: 768px) {
   .sidebar {
     position: relative;
-    width: 100%;
+    width: 100%; /* 小屏幕时占满宽度 */
     height: auto;
     margin-bottom: 20px;
   }
@@ -123,7 +109,8 @@ body.dark-mode .sidebar {
     width: 100%;
   }
 
-  .image-container {
-    max-width: 90%; /* 小屏幕时的容器宽度 */
+  .main-content img {
+    max-width: 70%; /* 小屏幕时图片占 70% */
   }
 }
+
