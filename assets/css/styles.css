@@ -29,7 +29,6 @@ body.dark-mode {
   width: 25%; 
   max-width: 300px;
   padding: 30px 20px;
-  text-align: center;
   background-color: #f5f5f5;
   position: fixed;
   top: 0;
@@ -43,6 +42,7 @@ body.dark-mode .sidebar {
   background-color: #333;
 }
 
+/* 侧边栏内头像样式 */
 .sidebar img {
   border-radius: 50%; 
   width: 120px;
@@ -82,7 +82,7 @@ body.dark-mode .sidebar {
   width: 75%;
   padding: 20px;
   overflow: auto;
-  text-align: left; 
+  text-align: left; /* 左对齐主内容 */
 }
 
 /* 图片上方和下方文字 */
@@ -90,13 +90,13 @@ body.dark-mode .sidebar {
 .text-below {
   margin: 15px 0;
   width: 100%; 
-  text-align: center;
+  text-align: left; /* 确保文字左对齐 */
 }
 
 /* 图片容器和图片样式 */
 .image-container {
-  margin: 20px auto; 
-  text-align: center;
+  margin: 20px 0; 
+  text-align: center; /* 图片居中，但不影响文字 */
 }
 
 .image-container img {
@@ -112,15 +112,4 @@ body.dark-mode .sidebar {
     position: relative;
     width: 100%; 
     height: auto;
-    margin-bottom: 20px;
-  }
-
-  .main-content {
-    margin-left: 0;
-    width: 100%;
-  }
-
-  .image-container img {
-    max-width: 70%; 
-  }
-}
+    margin-bottom:
