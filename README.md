@@ -112,6 +112,8 @@ Poster Presentation, Biomedical Engineering Annual Meeting 2023, Seattle, WA
 
 **Mechanical Engineering Intern @Changzhou Xiefa Machinery Co., Ltd. (_May 2024 - May 2024_)**
 - Learned general manufacturing procedures and welding techniques, selection of different materials for manufacturing purposes, and different welding methods for manufacturing.
+![Arc Welding](/images/welding.jpeg)
+Practiced arc welding in the manufacturing factory under the guidance of a professional welder
 
 **Office Assistant @ GCP Office, Changzhou No.2 People's Hospital (_January 2024_)**
 - Learned different projects of clinical trial I, II, III, and IV (in collaboration with other big medical companies such as Johnson & Johnson) under the guidance of Dr. Wenjia Liu, Associate Chief Physician, the M.D., and the Deputy Director of the Gastroenterology Department, The Affiliated Changzhou No.2 People’s Hospital of Nanjing Medical University.
