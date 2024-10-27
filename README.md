@@ -111,8 +111,10 @@ Poster Presentation, Biomedical Engineering Annual Meeting 2023, Seattle, WA
 - Attendee of the 17th (2024) International Photovoltaic Power Generation and Smart Energy Exhibition in Shanghai
 
 **Mechanical Engineering Intern @Changzhou Xiefa Machinery Co., Ltd. (_May 2024 - May 2024_)**
-- Learned general manufacturing procedures and welding techniques, selection of different materials for manufacturing purposes, and different welding methods for manufacturing.
+- Learned general manufacturing procedures and welding techniques, as well as the selection of different materials for manufacturing purposes and different welding methods for manufacturing.
+
 ![Arc Welding](/images/welding.jpeg)
+<br>
 Practiced arc welding in the manufacturing factory under the guidance of a professional welder
 
 **Office Assistant @ GCP Office, Changzhou No.2 People's Hospital (_January 2024_)**
