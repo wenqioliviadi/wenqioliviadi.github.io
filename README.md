@@ -98,17 +98,20 @@ Poster Presentation, Biomedical Engineering Annual Meeting 2023, Seattle, WA
 
 
 ## Work Experience
-**Business Analyst Intern @ McKinsey & Company (_June 2024 - Present_)**
+**Business Analyst Intern @ McKinsey & Company (_June 2024 - Aug 2024_)**
 - Collaborated with senior consultants to develop a comprehensive strategy for transitioning a major real estate firm into the renewable energy sector
 - Conducted in-depth market research to identify potential opportunities and challenges within the energy market, focusing on renewable energy
 - Engaged with key stakeholders, including company executives, industry experts, and potential partners, to gather insights and feedback
 - Help develop proposals for sustainable building practices and energy-efficient technologies to be integrated into the company’s real estate portfolio
 
-**Internatonal Sales @ Changzhou Hershey-Power New Energy - part-time (_May 2024 - Present_)**
+**Internatonal Sales @ Changzhou Hershey-Power New Energy - part-time (_May 2024 - Aug 2024_)**
 - Led the launch of solar module and panel sales projects in Dubai and Osaka, Japan, ensuring timely and successful market entry. Successfully helped the company launch solar module and panel sales in Dubai and Osaka, achieving a 20% increase in regional sales.
 - Facilitated communication between English and Chinese-speaking team members, ensuring clear and effective collaboration across language barriers for clear and effective communication
 - Conducted comprehensive market research to understand regional demand, regulatory requirements, and competitive landscape in both Dubai and Osaka. Designed and implemented targeted sales and marketing strategies to promote solar modules and panels, leveraging local insights and market trends.
 - Attendee of the 17th (2024) International Photovoltaic Power Generation and Smart Energy Exhibition in Shanghai
+
+**Mechanical Engineering Intern @Changzhou Xiefa Machinery Co., Ltd. (_May 2024 - May 2024_)**
+- Learned general manufacturing procedures and welding techniques, selection of different materials for manufacturing purposes, and different welding methods for manufacturing.
 
 **Office Assistant @ GCP Office, Changzhou No.2 People's Hospital (_January 2024_)**
 - Learned different projects of clinical trial I, II, III, and IV (in collaboration with other big medical companies such as Johnson & Johnson) under the guidance of Dr. Wenjia Liu, Associate Chief Physician, the M.D., and the Deputy Director of the Gastroenterology Department, The Affiliated Changzhou No.2 People’s Hospital of Nanjing Medical University.
@@ -140,7 +143,8 @@ Finite Element Analysis of the Baja Suspension Using SIEMENS NX
 ![URBMES](/images/BMESClubFair.jpeg)
 
 Co-hosting Club Recruitment Event at the Student Club Fair
-- **Vice President**, Biomedical Engineering Society University of Rochester Chapter – Rochester, NY, USA. 04/2023 – 12/2023
+- **Research Ambassador**, Office of Undergraduate Research, University of Rochester – Rochester, NY, USA. 10/2023 – Present
+- **Vice President**, Biomedical Engineering Society University of Rochester Chapter – Rochester, NY, USA. 04/2023 – 01/2024
 - **Publicity Chair**, Biomedical Engineering Society University of Rochester Chapter – Rochester, NY, USA. 01/2022 – 04/2023
 - **Entrepreneurship Lead**, iGEM Rochester, International Genetically Engineered Machine – Rochester, NY, USA. 01/2023 – 11/2023
 - **Policy & Practice Manager**, iGEM Rochester, International Genetically Engineered Machine – Rochester, NY, USA. 01/2023 – 11/2023
