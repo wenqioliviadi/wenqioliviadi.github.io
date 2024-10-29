@@ -10,16 +10,23 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // 创建切换按钮并添加到页面顶部
   const toggleButton = document.createElement("button");
-  toggleButton.innerText = "🌙"; // 使用小月亮图标
   toggleButton.style.position = "fixed";
   toggleButton.style.top = "10px";
   toggleButton.style.right = "10px";
   toggleButton.style.padding = "10px";
   toggleButton.style.cursor = "pointer";
-  toggleButton.style.fontSize = "24px"; // 调整大小以更明显
   toggleButton.style.border = "none";
   toggleButton.style.background = "transparent";
+  toggleButton.style.fontSize = "24px";
   document.body.appendChild(toggleButton);
+
+  // 设置初始图标
+  const updateIcon = () => {
+    toggleButton.innerHTML = body.classList.contains("dark-mode")
+      ? "☀️"  // 白天模式图标
+      : "🌙"; // 夜间模式图标
+  };
+  updateIcon();
 
   // 添加点击事件切换模式
   toggleButton.addEventListener("click", function () {
@@ -31,5 +38,8 @@ document.addEventListener("DOMContentLoaded", function () {
     } else {
       localStorage.setItem("theme", "");
     }
+
+    // 更新图标
+    updateIcon();
   });
 });
