@@ -10,12 +10,15 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // 创建切换按钮并添加到页面顶部
   const toggleButton = document.createElement("button");
-  toggleButton.innerText = "Switch Mode";
+  toggleButton.innerText = "🌙"; // 使用小月亮图标
   toggleButton.style.position = "fixed";
   toggleButton.style.top = "10px";
   toggleButton.style.right = "10px";
   toggleButton.style.padding = "10px";
   toggleButton.style.cursor = "pointer";
+  toggleButton.style.fontSize = "24px"; // 调整大小以更明显
+  toggleButton.style.border = "none";
+  toggleButton.style.background = "transparent";
   document.body.appendChild(toggleButton);
 
   // 添加点击事件切换模式
