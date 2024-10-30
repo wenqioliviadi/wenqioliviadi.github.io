@@ -34,6 +34,12 @@ Been selected as one of the seven candidates (Undergraduates & Graduates) to pre
 - Conducted data collection, processing, and analysis for the novel study evaluating how the infiltration of albumin-sized macromolecules and larger microspheres may affect the permeability of agarose hydrogels
 - Help other members with their projects, fabricate, and modify lab experiment equipment if needed
 
+**Senior Design Project: Ergonomic Surgical Pedal System, University of Rochester Medical Center (August 2024 - Present)**
+- Collaborating on the design and development of a foot-controlled surgical pedal system to enhance surgeon comfort and reduce fatigue
+- Coordinating usability testing with surgeons to gather feedback for design refinement
+- Assisting with wireless integration and minimizing latency to ensure real-time operation
+- Managing project documentation and technical specifications to align with FDA Class II medical device standards
+
 **Researcher @ iGEM Rochester 2023, International Genetically Engineered Machine (_February 2023 - December 2023_)**
 - **Wetlab**:
 - helped conduct cell viability experiments, PCR, PCR product extraction, High-Performance Liquid Chromatography (HPLC) experiments for detecting the final products
