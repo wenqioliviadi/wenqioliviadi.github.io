@@ -1,4 +1,4 @@
-# Biomedical Engineer and Business Analyst
+# Bridging Science and Strategy: A Biomedical and Economics Researcher
 
 #### Technical Skills: Abaqus CAE, SIEMENS NX, Python, MATLAB, Solidworks, Onshape, Machinery Design & Fabrication, 3D Printing, ANSYS Workbench, FEBio, Graphic Design
 
