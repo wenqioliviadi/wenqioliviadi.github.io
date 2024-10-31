@@ -133,7 +133,13 @@ Practiced arc welding in the manufacturing factory under the guidance of a profe
 - Ran weekly course workshops, and review sessions; as well as answered student questions in the course.
 
 **Quality Assurance Quality Control Lab Technician @ Lepu Medical Technology (Beijing) Co., Ltd. (_March 2021 - April 2021_)**
-- Using meteorological spectroscopy to test anorectal staplers to ensure they are safe for human use 
+- Conducted oxirane residue testing via gas chromatography to ensure safety and compliance of medical devices post-ethylene oxide (EO) sterilization.
+- Validated ozone sterilization processes using targeted bacterial strains and growth media (TSB and SDA)
+- Performed comprehensive microbiological testing on products and raw materials, including sterility checks and contamination control assessments.
+- Prepared and managed sterile liquid and solid growth media for microbial testing procedures.
+- Documented and monitored EO sterilization processes with digital data management for technical compliance and quality assurance.
+
+
 
 
 ### Baja SAE Suspension Design & Validation 
