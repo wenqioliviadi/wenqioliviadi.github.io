@@ -36,7 +36,6 @@ Been selected as one of the seven candidates (Undergraduates & Graduates) to pre
 
 **Senior Design Project: Ergonomic Surgical Pedal System, University of Rochester Medical Center (August 2024 - Present)**
 - Collaborating on the design and development of a foot-controlled surgical pedal system to enhance surgeon comfort and reduce fatigue as a team of four using machine learning, Arduino, and 3D-Printing
-- ![image](https://github.com/user-attachments/assets/9a756788-eb2c-4d53-96c7-cb9abcf9674d)
 - Coordinating usability testing with surgeons to gather feedback for design refinement
 - Assisting with wireless integration and minimizing latency to ensure real-time operation
 - Managing project documentation and technical specifications to align with FDA Class II medical device standards
