@@ -13,7 +13,8 @@
 ## Conference / Symposium Presentations
 1. **Di, W.**, et al, Poster Presentation, Undergraduate Research Symposium, April 2023, Rochester, NY
 2. **Di, W.**, et al, Poster Presentation, Biomedical Engineering Society Annual Meeting, October 2023, Seattle, WA
-3. **Di, W.**, Poster Presentation, GCSP Annual Meeting, February 2024, Los Angeles, CA
+3. **Di, W.**, et al, Poster Presentation, International Genetically Engineered Machine Annual Meeting, November 2023, Paris, France
+4. **Di, W.**, Poster Presentation, GCSP Annual Meeting, February 2024, Los Angeles, CA
 
 ## Link
 [Publication (BMES 2023 Annual Conference)](https://2023bmesannual.eventscribe.net/fsPopup.asp?PosterID=606566&mode=posterInfo)
