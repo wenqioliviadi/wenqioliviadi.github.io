@@ -20,6 +20,7 @@
 [Publication (BMES 2023 Annual Conference)](https://2023bmesannual.eventscribe.net/fsPopup.asp?PosterID=606566&mode=posterInfo)
 <br>
 ![GCSP](/images/GCSP.png)
+<br>
 [Conference Proceedings (GCSP 2024 Annual Conference)](https://gcspnetwork.org/proceedings/)
 <br>
 Poster for National Academy of Engineers Grand Challenge Scholars Program
