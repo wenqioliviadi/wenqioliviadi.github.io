@@ -22,6 +22,7 @@
 <br>
 [Conference Proceedings (GCSP 2024 Annual Conference)](https://gcspnetwork.org/proceedings/)
 <br>
+<br>
 Poster for National Academy of Engineers Grand Challenge Scholars Program
 ![GCSP2](/images/GCSP_Presentation.jpeg)
 <br>
@@ -56,6 +57,7 @@ Been selected as one of the seven candidates (Undergraduates & Graduates) to pre
 - Created 3D-printed dog bone-shaped samples and placed them on LB plates containing chloramphenicol (chlora) for testing.
 - Analysed the experimental data using **MATLAB** plotting to find the stiffness, maximum force applied, cross-sectional area, and ultimate tensile strength analyzed of different sample groups.
 - **Hardware**:
+<br>
 - Design-test-build extrusion parts of the dual-channeled 3D printer using **Onshape**
 ![Hardware1](/images/extruder1.png)
 <br>
