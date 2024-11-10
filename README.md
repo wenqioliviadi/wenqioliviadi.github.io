@@ -42,6 +42,11 @@ Been selected as one of the seven candidates (Undergraduates & Graduates) to pre
 - Assisting with wireless integration and minimizing latency to ensure real-time operation
 - Managing project documentation and technical specifications to align with FDA Class II medical device standards
 
+**Lab Technician II @ Lopatkin Lab, Department of Chemical Engineering, University of Rochester (September 2023 - April 2024)**
+- Designed protocols experiments to explore how bacterial metabolic pathways influence resistance mechanisms, to identify strategies for more effective therapeutic interventions.
+- Utilized pipetting and centrifugation to isolate plasmids from bacterial culture and amplified genes of interest with Polymerase Chain Reaction for downstream sequencing analysis.
+- Utilized nanodrop spectrophotometry for the purity assessment of PCR product extractions.
+  
 **Researcher @ iGEM Rochester 2023, International Genetically Engineered Machine (_February 2023 - December 2023_)**
 - **Wetlab**:
 - helped conduct cell viability experiments, PCR, PCR product extraction, High-Performance Liquid Chromatography (HPLC) experiments for detecting the final products
