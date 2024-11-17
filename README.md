@@ -132,7 +132,7 @@ Poster Presentation, Biomedical Engineering Annual Meeting 2023, Seattle, WA
 <br>
 Practiced arc welding in the manufacturing factory under the guidance of a professional welder
 
-**Office Assistant @ GCP Office, Changzhou No.2 People's Hospital (_January 2024_)**
+**Office Assistant @ GCP Office, Changzhou No.2 People's Hospital (_December 2023 - January 2024_)**
 - Learned different projects of clinical trial I, II, III, and IV (in collaboration with other big medical companies such as Johnson & Johnson) under the guidance of Dr. Wenjia Liu, Associate Chief Physician, the M.D., and the Deputy Director of the Gastroenterology Department, The Affiliated Changzhou No.2 People’s Hospital of Nanjing Medical University.
 - Shadowed Dr. Wenjia Liu for patients with Crohn's disease and helped record documenting findings from patient exams and assessments
 - Helped integrate data & non-statistical information for projects of different clinical trial stages for ethics review meetings by developing a new information input system using Excel greatly increased the working efficiency
