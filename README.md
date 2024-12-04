@@ -1,6 +1,6 @@
 # Bridging Science and Strategy: A Biomedical and Economics Researcher
 
-#### Technical Skills: Abaqus CAE, SIEMENS NX, Python, MATLAB, GitHub, Solidworks, Onshape, Machinery Design & Fabrication, CNC Programming (HAAS TL-1), 3D Printing, ANSYS Workbench, FEBio, Graphic Design, PCR, ELISA, HPLC
+#### Technical Skills: Abaqus CAE, SIEMENS NX, Python, MATLAB, GitHub, SOLIDWORKS, Onshape, Machinery Design & Fabrication, CNC Programming (HAAS TL-1), 3D Printing, ANSYS Workbench, FEBio, Graphic Design, PCR, ELISA, HPLC
 
 - **Hi! I am Wenqi!** I have worked on several projects centered around developing **algorithms and hardware** for various projects not only for research but also for machine manufacturing, including **investigating material properties of synthetic cartilage** (abstract accepted into BMES Annual Conference 2023 for my independent research), innovated **co-culture dual-channel 3D bioprinting system for the worldwide synthetic biology competition - iGEM (International Genetically Engineered Machine)**, and developed a new information system for helping organize clinical trials at **Good Clinical Practice (GCP)** Office at Changzhou No.2 People’s Hospital. Besides dry lab and wet lab research, I have actively participated in **advanced machine fabrication** and **business analysis**. See my CV for more details and selected awards in iGEM, National Academy of Engineers, and fellowships. 
 
