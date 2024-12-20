@@ -189,8 +189,10 @@ Multipurpose Aluminum Stand: Candleholder Application
 **Mechanical Testing Equipment Modification**
 Advised by Mr. Jim Alkins, Senior Laboratory Engineer & Instructor in Mechanical Fabrication, Department of Mechanical Engineering, University of Rochester
 <br>
+<br>
 <img width="926" alt="Screenshot 2024-12-20 at 12 26 27 AM" src="https://github.com/user-attachments/assets/d03f85ac-6bff-4265-98c2-d8636b2833c6" />
 Mechanical Testing Equipment Modification: Before and After
+<br>
 <br>
 **Why modification?**
 The modification was necessary because the existing mechanical testing equipment had been abandoned for years due to an issue with removing the load cell after testing. By cutting the long tube into upper and lower sections and adding a tee tube in between, the upper part became movable, improving accessibility and functionality. This adjustment allows the equipment to be reused effectively in Buckley Lab for experiments.
@@ -198,6 +200,7 @@ The modification was necessary because the existing mechanical testing equipment
 <br>
 **Indentation Platform for Biomedical Research** 
 Advised by Mr. Jim Alkins, Senior Laboratory Engineer & Instructor in mechanical fabrication, Department of Mechanical Engineering, University of Rochester
+<br>
 <br>
 <img width="730" alt="Screenshot 2024-12-20 at 12 29 53 AM" src="https://github.com/user-attachments/assets/65fb7b41-e69e-4e80-8ca2-98b8873b26b9" />
 <br>
