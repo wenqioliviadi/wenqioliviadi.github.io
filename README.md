@@ -46,7 +46,7 @@ Been selected as one of the seven candidates (Undergraduates & Graduates) to pre
 <img width="646" alt="Screenshot 2024-12-19 at 11 52 49 PM" src="https://github.com/user-attachments/assets/0410990e-80e1-401b-8788-280ab3e4bf9b" />
 <br>
 First draft of the robotic arm with ball-shaped end sensor operating inside the Ergonomic Surgical Pedal System column in SOLIDWORKS.
-
+<br>
 <br>
 
 **Lab Technician II @ Lopatkin Lab, Department of Chemical Engineering, University of Rochester (September 2023 - April 2024)**
