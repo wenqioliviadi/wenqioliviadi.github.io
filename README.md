@@ -111,7 +111,11 @@ Poster Presentation, Biomedical Engineering Annual Meeting 2023, Seattle, WA
 -Analyzed the force data with a mathematical model to understand the material properties using **MATLAB**
 -Created a computer model using **FEBio** to simulate the gel's behavior and adjusted it until it matched the real-life test results
 
-### Effects of Osteoporosis on Stress Distribution and Fracture Risk in the Proximal Femur During Walking: A Finite Element Study
+### Biosolid Mechanics Term Independent Project: Effects of Osteoporosis on Stress Distribution and Fracture Risk in the Proximal Femur During Walking: A Finite Element Study
+<img width="729" alt="Screenshot 2024-12-19 at 11 33 37 PM" src="https://github.com/user-attachments/assets/073b70c6-16cb-4c65-907b-298bbfdccc61" />
+<br>
+The upper and lower components assembled with cortical out layer and cancellous inner structure. a. Framework of the diaphysis of the proximal femur. b. Reconstructed epiphysis and metaphysis of the proximal femur. c. A complete meshed representation of the proximal femur, showing the transition from the femoral head to the upper diaphysis. d. A cross-sectional view of the femoral shaft. e. Assembled femoral default Model I of a healthy human femur with applied mesh consists of the femoral head, neck, trochanteric and subtrochanteric region, and diaphysis divided by datum planes.
+<br>
 <img width="858" alt="Screenshot 2024-12-19 at 11 31 45 PM" src="https://github.com/user-attachments/assets/c5946f30-ae14-49b8-8234-b8e280dc1201" />
 <br>
 Comparative studies of the Von Mises stress, pressure distribution, maximum stress, and the displacement of the deformation are shown. a. Model I: the stress distribution and displacement of the proximal femur with fixed bottom when the subject is at rest. b. Model II: the stress distribution and displacement of the proximal femur with the load applied with the focus on the x and z directions.
