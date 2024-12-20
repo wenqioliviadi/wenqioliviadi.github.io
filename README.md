@@ -181,13 +181,13 @@ Advised by Prof. Christopher Muir, Department of Mechanical Engineering, Univers
 **Manufacturing a Multipurpose Stand on the HAAS TL-1**
 For pursuing a personal interest in machine design and manufacturing, I spent one year in machine body/component design using SOLIDWORKS and Onshape to cut/3D print to build different parts for manufacturing including the indentation platform for my biomechanics research project and a multipurpose stand using HAAS TL-1 automation.
 <br>
-<img width="1124" alt="Screenshot 2024-12-20 at 12 24 24 AM" src="https://github.com/user-attachments/assets/d53af450-1c32-4d40-8dff-ea6432e801a1" />
+<img width="704" alt="Screenshot 2024-12-20 at 12 59 06 AM" src="https://github.com/user-attachments/assets/4cab8c43-fa1b-46f6-a731-7d486a66dee7" />
 <br>
 Multipurpose Aluminum Stand: Candleholder Application
 <br>
 <br>
 **Mechanical Testing Equipment Modification**
-Advised by Mr. Jim Alkins, Senior Laboratory Engineer & Instructor in mechanical fabrication, Department of Mechanical Engineering, University of Rochester
+Advised by Mr. Jim Alkins, Senior Laboratory Engineer & Instructor in Mechanical Fabrication, Department of Mechanical Engineering, University of Rochester
 <br>
 <img width="926" alt="Screenshot 2024-12-20 at 12 26 27 AM" src="https://github.com/user-attachments/assets/d03f85ac-6bff-4265-98c2-d8636b2833c6" />
 Mechanical Testing Equipment Modification: Before and After
