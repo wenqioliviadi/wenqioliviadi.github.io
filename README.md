@@ -72,7 +72,6 @@ Been selected as one of the seven candidates (Undergraduates & Graduates) to pre
 
 **Additional Modeling**  
 ![Femur Model](/images/Femur_3D_modeling.png)
-![Femur Force Distribution](/images/Force.png)
 <br>
 3D Proximal Femur Model for Force Analysis Using Abaqus CAE
 
