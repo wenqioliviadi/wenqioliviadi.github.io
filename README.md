@@ -76,7 +76,7 @@ Been selected as one of the seven candidates (Undergraduates & Graduates) to pre
 <br>
 3D Proximal Femur Model for Force Analysis Using Abaqus CAE
 
-## Projects Presentations
+## Projects & Presentations
 ### 3D Parallel Bio-printing System for Optimizing Biomanufacturing Processes
 ![iGEM Pic1](/images/iGEM1.jpeg)
 <br>
@@ -111,6 +111,10 @@ Poster Presentation, Biomedical Engineering Annual Meeting 2023, Seattle, WA
 -Analyzed the force data with a mathematical model to understand the material properties using **MATLAB**
 -Created a computer model using **FEBio** to simulate the gel's behavior and adjusted it until it matched the real-life test results
 
+### Effects of Osteoporosis on Stress Distribution and Fracture Risk in the Proximal Femur During Walking: A Finite Element Study
+<img width="858" alt="Screenshot 2024-12-19 at 11 31 45 PM" src="https://github.com/user-attachments/assets/c5946f30-ae14-49b8-8234-b8e280dc1201" />
+<br>
+Comparative studies of the Von Mises stress, pressure distribution, maximum stress, and the displacement of the deformation are shown. a. Model I: the stress distribution and displacement of the proximal femur with fixed bottom when the subject is at rest. b. Model II: the stress distribution and displacement of the proximal femur with the load applied with the focus on the x and z directions.
 
 
 ## Work Experience
