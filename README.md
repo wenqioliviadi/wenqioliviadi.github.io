@@ -99,7 +99,7 @@ To learn more about the project:
 
 #### Personal Contribution: 
 - Developed objective strategy for researching potential customers and collaborators and brainstorming strategies to improve the projects via different angles. 
-- Networking and conducting customer discoveries through various social media and platforms. This novel approach led to better characterization of the underlying problems with different stages of the project (brainstorming, development, and project implementation). The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new applications of the 3D bioprinter developed.
+- Network and conduct customer discoveries through various social media and platforms. This novel approach led to better characterization of the underlying problems with different stages of the project (brainstorming, development, and project implementation). The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new applications of the 3D bioprinter developed.
 - Human Practices Wiki
 [Publication](https://2023.igem.wiki/rochester/human-practices)
 - Entrepreneurship Wiki
@@ -125,7 +125,7 @@ The upper and lower components assembled with cortical out layer and cancellous 
 <br>
 <img width="858" alt="Screenshot 2024-12-19 at 11 31 45 PM" src="https://github.com/user-attachments/assets/c5946f30-ae14-49b8-8234-b8e280dc1201" />
 <br>
-Comparative studies of the Von Mises stress, pressure distribution, maximum stress, and the displacement of the deformation are shown. **a.** Model I: the stress distribution and displacement of the proximal femur with fixed bottom when the subject is at rest. **b.** Model II: the stress distribution and displacement of the proximal femur with the load applied with the focus on the x and z directions.
+Comparative studies of the Von Mises stress, pressure distribution, maximum stress, and the displacement of the deformation are shown. **a.** Model I: the stress distribution and displacement of the proximal femur with a fixed bottom when the subject is at rest. **b.** Model II: the stress distribution and displacement of the proximal femur with the load applied with the focus on the x and z directions.
 
 
 ## Work Experience
@@ -191,6 +191,7 @@ Advised by Mr. Jim Alkins, Senior Laboratory Engineer & Instructor in Mechanical
 <br>
 <br>
 <img width="926" alt="Screenshot 2024-12-20 at 12 26 27 AM" src="https://github.com/user-attachments/assets/d03f85ac-6bff-4265-98c2-d8636b2833c6" />
+<br>
 Mechanical Testing Equipment Modification: Before and After
 <br>
 <br>
@@ -199,7 +200,7 @@ The modification was necessary because the existing mechanical testing equipment
 <br>
 <br>
 **Indentation Platform for Biomedical Research** 
-Advised by Mr. Jim Alkins, Senior Laboratory Engineer & Instructor in mechanical fabrication, Department of Mechanical Engineering, University of Rochester
+Advised by Mr. Jim Alkins, Senior Laboratory Engineer & Instructor in Mechanical Fabrication, Department of Mechanical Engineering, University of Rochester
 <br>
 <br>
 <img width="730" alt="Screenshot 2024-12-20 at 12 29 53 AM" src="https://github.com/user-attachments/assets/65fb7b41-e69e-4e80-8ca2-98b8873b26b9" />
