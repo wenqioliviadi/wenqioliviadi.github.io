@@ -117,7 +117,8 @@ Poster Presentation, Biomedical Engineering Annual Meeting 2023, Seattle, WA
 -Created a computer model using **FEBio** to simulate the gel's behavior and adjusted it until it matched the real-life test results
 
 ### Biosolid Mechanics (Fall 2024) Term Independent Project: Effects of Osteoporosis on Stress Distribution and Fracture Risk in the Proximal Femur During Walking: A Finite Element Study
- Advised by Prof. Amy L. Lerner, Department of Biomedical Engineering, University of Rochester
+Advised by Prof. Amy L. Lerner, Department of Biomedical Engineering, University of Rochester
+<br>
 <img width="729" alt="Screenshot 2024-12-19 at 11 33 37 PM" src="https://github.com/user-attachments/assets/073b70c6-16cb-4c65-907b-298bbfdccc61" />
 <br>
 The upper and lower components assembled with cortical out layer and cancellous inner structure. **a.** Framework of the diaphysis of the proximal femur. **b.** Reconstructed epiphysis and metaphysis of the proximal femur. **c.** A complete meshed representation of the proximal femur, showing the transition from the femoral head to the upper diaphysis. **d.** A cross-sectional view of the femoral shaft. **e.** Assembled femoral default Model I of a healthy human femur with applied mesh consists of the femoral head, neck, trochanteric and subtrochanteric region, and diaphysis divided by datum planes.
@@ -179,6 +180,7 @@ Finite Element Analysis of the Baja Suspension Using SIEMENS NX
 Advised by Prof. Christopher Muir, Department of Mechanical Engineering, University of Rochester
 **Manufacturing a Multipurpose Stand on the HAAS TL-1**
 For pursuing a personal interest in machine design and manufacturing, I spent one year in machine body/component design using SOLIDWORKS and Onshape to cut/3D print to build different parts for manufacturing including the indentation platform for my biomechanics research project and a multipurpose stand using HAAS TL-1 automation.
+<br>
 <img width="1124" alt="Screenshot 2024-12-20 at 12 24 24 AM" src="https://github.com/user-attachments/assets/d53af450-1c32-4d40-8dff-ea6432e801a1" />
 <br>
 Multipurpose Aluminum Stand: Candleholder Application
@@ -186,6 +188,7 @@ Multipurpose Aluminum Stand: Candleholder Application
 <br>
 **Mechanical Testing Equipment Modification**
 Advised by Mr. Jim Alkins, Senior Laboratory Engineer & Instructor in mechanical fabrication, Department of Mechanical Engineering, University of Rochester
+<br>
 <img width="926" alt="Screenshot 2024-12-20 at 12 26 27 AM" src="https://github.com/user-attachments/assets/d03f85ac-6bff-4265-98c2-d8636b2833c6" />
 Mechanical Testing Equipment Modification: Before and After
 <br>
@@ -195,7 +198,9 @@ The modification was necessary because the existing mechanical testing equipment
 <br>
 **Indentation Platform for Biomedical Research** 
 Advised by Mr. Jim Alkins, Senior Laboratory Engineer & Instructor in mechanical fabrication, Department of Mechanical Engineering, University of Rochester
+<br>
 <img width="730" alt="Screenshot 2024-12-20 at 12 29 53 AM" src="https://github.com/user-attachments/assets/65fb7b41-e69e-4e80-8ca2-98b8873b26b9" />
+<br>
 <img width="460" alt="Screenshot 2024-12-20 at 12 30 09 AM" src="https://github.com/user-attachments/assets/2482633c-8a08-4986-9c5d-ba1c25f85efa" />
 <br>
 <br>
