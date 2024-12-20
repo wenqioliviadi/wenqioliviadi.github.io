@@ -180,6 +180,8 @@ Finite Element Analysis of the Baja Suspension Using SIEMENS NX
 <br>
 For pursuing a personal interest in machine design and manufacturing, I spent one year in machine body/component design using SOLIDWORKS and Onshape to cut/3D print to build different parts for manufacturing including the indentation platform for my biomechanics research project and a multipurpose stand using HAAS TL-1 automation.
 <br>
+<br>
+
 **Manufacturing a Multipurpose Stand on the HAAS TL-1**
 <br>
 Advised by Prof. Christopher Muir, Department of Mechanical Engineering, University of Rochester
