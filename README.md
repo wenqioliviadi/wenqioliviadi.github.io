@@ -175,13 +175,14 @@ Finite Element Analysis of the Baja Suspension Using SIEMENS NX
 - Perform load transfer and finite element analysis (FEA) simulations to ensure maximum stress remains within safe limits, and physically validate the design using strain data collected from strain gauges using **SIEMENS NX**
 - The new front upper A-arm design is 40% lighter than the previous version and can handle the same load with less stress concentration
 
-### Ongoing Independent Project - Advanced Mechanical Fabrication 
+### Independent Project - Advanced Mechanical Fabrication 
 Advised by Prof. Christopher Muir, Department of Mechanical Engineering, University of Rochester
 **Manufacturing a Multipurpose Stand on the HAAS TL-1**
 For pursuing a personal interest in machine design and manufacturing, I spent one year in machine body/component design using SOLIDWORKS and Onshape to cut/3D print to build different parts for manufacturing including the indentation platform for my biomechanics research project and a multipurpose stand using HAAS TL-1 automation.
 <img width="1124" alt="Screenshot 2024-12-20 at 12 24 24 AM" src="https://github.com/user-attachments/assets/d53af450-1c32-4d40-8dff-ea6432e801a1" />
 <br>
 Multipurpose Aluminum Stand: Candleholder Application
+<br>
 <br>
 **Mechanical Testing Equipment Modification**
 Advised by Mr. Jim Alkins, Senior Laboratory Engineer & Instructor in mechanical fabrication, Department of Mechanical Engineering, University of Rochester
@@ -196,8 +197,9 @@ The modification was necessary because the existing mechanical testing equipment
 Advised by Mr. Jim Alkins, Senior Laboratory Engineer & Instructor in mechanical fabrication, Department of Mechanical Engineering, University of Rochester
 <img width="730" alt="Screenshot 2024-12-20 at 12 29 53 AM" src="https://github.com/user-attachments/assets/65fb7b41-e69e-4e80-8ca2-98b8873b26b9" />
 <img width="460" alt="Screenshot 2024-12-20 at 12 30 09 AM" src="https://github.com/user-attachments/assets/2482633c-8a08-4986-9c5d-ba1c25f85efa" />
-
-
+<br>
+<br>
+### Ongoing Independent Project - Advanced Mechanical Fabrication 
 **Automated Electromechanical Mouse Hindlimb Loading Platform**
 - Design a motorized lever system that converts rotational motion into linear motion to rotate mouse hindlimbs for cartilage impingement experiments
 
