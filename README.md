@@ -177,9 +177,12 @@ Finite Element Analysis of the Baja Suspension Using SIEMENS NX
 - The new front upper A-arm design is 40% lighter than the previous version and can handle the same load with less stress concentration
 
 ### Independent Project - Advanced Mechanical Fabrication 
-Advised by Prof. Christopher Muir, Department of Mechanical Engineering, University of Rochester
-**Manufacturing a Multipurpose Stand on the HAAS TL-1**
+<br>
 For pursuing a personal interest in machine design and manufacturing, I spent one year in machine body/component design using SOLIDWORKS and Onshape to cut/3D print to build different parts for manufacturing including the indentation platform for my biomechanics research project and a multipurpose stand using HAAS TL-1 automation.
+<br>
+**Manufacturing a Multipurpose Stand on the HAAS TL-1**
+<br>
+Advised by Prof. Christopher Muir, Department of Mechanical Engineering, University of Rochester
 <br>
 <img width="704" alt="Screenshot 2024-12-20 at 12 59 06 AM" src="https://github.com/user-attachments/assets/4cab8c43-fa1b-46f6-a731-7d486a66dee7" />
 <br>
