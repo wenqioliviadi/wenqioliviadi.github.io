@@ -45,9 +45,10 @@ Been selected as one of the seven candidates (Undergraduates & Graduates) to pre
 <img width="425" alt="Screenshot 2024-12-19 at 11 46 25 PM" src="https://github.com/user-attachments/assets/eaa33c52-3e94-49b2-a063-1c003e586bb0" />
 <img width="646" alt="Screenshot 2024-12-19 at 11 52 49 PM" src="https://github.com/user-attachments/assets/0410990e-80e1-401b-8788-280ab3e4bf9b" />
 <br>
-First draft of the robotic arm with ball-shaped end sensor operating inside the Ergonomic Surgical Pedal System column.
+First draft of the robotic arm with ball-shaped end sensor operating inside the Ergonomic Surgical Pedal System column in SOLIDWORKS.
 
 <br>
+
 **Lab Technician II @ Lopatkin Lab, Department of Chemical Engineering, University of Rochester (September 2023 - April 2024)**
 - Designed protocols experiments to explore how bacterial metabolic pathways influence resistance mechanisms, to identify strategies for more effective therapeutic interventions.
 - Utilized pipetting and centrifugation to isolate plasmids from bacterial culture and amplified genes of interest with Polymerase Chain Reaction for downstream sequencing analysis.
