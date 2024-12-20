@@ -116,7 +116,8 @@ Poster Presentation, Biomedical Engineering Annual Meeting 2023, Seattle, WA
 -Analyzed the force data with a mathematical model to understand the material properties using **MATLAB**
 -Created a computer model using **FEBio** to simulate the gel's behavior and adjusted it until it matched the real-life test results
 
-### Biosolid Mechanics Term Independent Project: Effects of Osteoporosis on Stress Distribution and Fracture Risk in the Proximal Femur During Walking: A Finite Element Study
+### Biosolid Mechanics (Fall 2024) Term Independent Project: Effects of Osteoporosis on Stress Distribution and Fracture Risk in the Proximal Femur During Walking: A Finite Element Study
+ Advised by Prof. Amy L. Lerner, Department of Biomedical Engineering, University of Rochester
 <img width="729" alt="Screenshot 2024-12-19 at 11 33 37 PM" src="https://github.com/user-attachments/assets/073b70c6-16cb-4c65-907b-298bbfdccc61" />
 <br>
 The upper and lower components assembled with cortical out layer and cancellous inner structure. **a.** Framework of the diaphysis of the proximal femur. **b.** Reconstructed epiphysis and metaphysis of the proximal femur. **c.** A complete meshed representation of the proximal femur, showing the transition from the femoral head to the upper diaphysis. **d.** A cross-sectional view of the femoral shaft. **e.** Assembled femoral default Model I of a healthy human femur with applied mesh consists of the femoral head, neck, trochanteric and subtrochanteric region, and diaphysis divided by datum planes.
@@ -174,7 +175,7 @@ Finite Element Analysis of the Baja Suspension Using SIEMENS NX
 - Perform load transfer and finite element analysis (FEA) simulations to ensure maximum stress remains within safe limits, and physically validate the design using strain data collected from strain gauges using **SIEMENS NX**
 - The new front upper A-arm design is 40% lighter than the previous version and can handle the same load with less stress concentration
 
-### Ongoing Independent Project - Advanced Mechanical Fabrication
+### Ongoing Independent Project - Advanced Mechanical Fabrication Advised by Prof. Christopher Muir, Department of Mechanical Engineering, University of Rochester
 **Automated Electromechanical Mouse Hindlimb Loading Platform**
 - Design a motorized lever system that converts rotational motion into linear motion to rotate mouse hindlimbs for cartilage impingement experiments
 
