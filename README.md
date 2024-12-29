@@ -248,7 +248,7 @@ Mechanical Testing Equipment Modification: Before and After
 The modification was necessary because the existing mechanical testing equipment had been abandoned for years due to an issue with removing the load cell after testing. By cutting the long tube into upper and lower sections and adding a tee tube in between, the upper part became movable, improving accessibility and functionality. This adjustment allows the equipment to be reused effectively in Buckley Lab for experiments.
 <br>
 <br>
-**Indentation Platform for Biomedical Research** 
+**Indentation Platform for My Biomedical Research** 
 Advised by Mr. Jim Alkins, Senior Laboratory Engineer & Instructor in Mechanical Fabrication, Department of Mechanical Engineering, University of Rochester
 <br>
 <br>
