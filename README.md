@@ -200,6 +200,11 @@ Advised by Mr. Bill Mildenberger, Department of Mechanical Engineering, Universi
 <br>
 Custom-Made Precision Clamp for Mechanical and Laboratory Applications: Designed for Reliable Object Securing and Adjustment
 <br>
+<br>
+<br>
+**The production process steps:**
+<br>
+<br>
 **I. Material Selection**
 The main body of the clamp is constructed from aluminum alloy, which is durable for various applications due to its lightweight properties and resistance to corrosion.
 The screw rods and adjustment knobs are made from high-strength steel, ensuring robustness and longevity under repeated use.
@@ -225,6 +230,8 @@ The name is engraved on the aluminum body using CNC programming.
 
 **IV. Assembly and Testing**
 After machining and surface finishing, the individual components are assembled. The screw rods are inserted into the clamp body, and the adjustment knobs are attached. The final product undergoes final functional testing.
+<br>
+<br>
 <br>
 <br>
 **Mechanical Testing Equipment Modification**
