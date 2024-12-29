@@ -208,6 +208,7 @@ Custom-Made Precision Clamp for Mechanical and Laboratory Applications: Designed
 **I. Material Selection**
 The main body of the clamp is constructed from aluminum alloy, which is durable for various applications due to its lightweight properties and resistance to corrosion.
 The screw rods and adjustment knobs are made from high-strength steel, ensuring robustness and longevity under repeated use.
+
 **II. CNC Machining**
 **Clamp Body:**
 The aluminum body is fabricated using CNC (Computer Numerical Control) milling to achieve precise dimensions and geometric features. This process ensures the body maintains tight tolerances necessary for functionality. Additional shaping involves fine grinding and smooth edges and surfaces.
