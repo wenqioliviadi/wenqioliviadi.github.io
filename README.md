@@ -191,6 +191,42 @@ Advised by Prof. Christopher Muir, Department of Mechanical Engineering, Univers
 Multipurpose Aluminum Stand: Candleholder Application
 <br>
 <br>
+
+**Manufacturing Process of the Metal Clamp**
+<br>
+Advised by Mr. Bill Mildenberger, Department of Mechanical Engineering, University of Rochester
+<br>
+![EAS241 Clamp](https://github.com/user-attachments/assets/d1c3c5a7-d34c-4d0b-b8f3-0ce37bdf9604)
+<br>
+Custom-Made Precision Clamp for Mechanical and Laboratory Applications: Designed for Reliable Object Securing and Adjustment
+<br>
+**I. Material Selection**
+The main body of the clamp is constructed from aluminum alloy, which is durable for various applications due to its lightweight properties and resistance to corrosion.
+The screw rods and adjustment knobs are made from high-strength steel, ensuring robustness and longevity under repeated use.
+**II. CNC Machining**
+**Clamp Body:**
+The aluminum body is fabricated using CNC (Computer Numerical Control) milling to achieve precise dimensions and geometric features. This process ensures the body maintains tight tolerances necessary for functionality. Additional shaping involves fine grinding and smooth edges and surfaces.
+
+**Screw Rods:**
+The steel screw rods are produced using turning on a lathe to form their cylindrical shape and prepare for threading. After turning, the screw threads are created using a thread rolling process, which enhances the strength and wear resistance of the threads by compressing the metal rather than cutting it.
+
+**Knurled Adjustment Knobs:**
+The adjustment knobs are machined using CNC turning for the circular profile and dimension control. A knurling process is applied to the surface to create a textured pattern that enhances grip and ease of operation.
+
+**III. Surface Finishing**
+**Aluminum Body:**
+The aluminum surface undergoes sandblasting or brushing to achieve a uniform texture, followed by optional anodization to improve its corrosion resistance and aesthetic appeal further.
+
+**Steel Components:**
+Steel parts, including the screw rods and knobs, are treated with a black oxide coating. This process protects against corrosion while maintaining a professional and sleek appearance.
+
+**Engraving:**
+The name is engraved on the aluminum body using CNC programming.
+
+**IV. Assembly and Testing**
+After machining and surface finishing, the individual components are assembled. The screw rods are inserted into the clamp body, and the adjustment knobs are attached. The final product undergoes final functional testing.
+<br>
+<br>
 **Mechanical Testing Equipment Modification**
 Advised by Mr. Jim Alkins, Senior Laboratory Engineer & Instructor in Mechanical Fabrication, Department of Mechanical Engineering, University of Rochester
 <br>
