@@ -308,8 +308,12 @@ Jan 2017 - Jan 2018
 <br>
 Spring in Rochester, NY 2024
 <br>
-References
+<br>
+References:
 [1] Poole KES, Treece GM, Mayhew PM, Vaculik J, Dungl P, Horak M, Stepan JJ, Gee AH. Cortical thickness mapping to identify focal osteoporosis in patients with hip fracture. PLoS ONE. 2012;7(6):e38466.
+<br>
 [2] Reina-Romo E, Giráldez-Sánchez M, Mora-Macías J, Cano-Luis P, Domínguez J. Biomechanical design of less invasive stabilization system femoral plates: computational evaluation of the fracture environment. Proc Inst Mech Eng H. 2014;228(10):1043–52.
+<br>
 [3] Ziegler CM, Wagner F, Alleborn K, Geith T, Holzapfel BM, Heimkes B. Muscle forces acting on the greater trochanter lead to a dorsal warping of the apophyseal growth plate. J Anat. 2023;244(1):63–74.
+<br>
 
