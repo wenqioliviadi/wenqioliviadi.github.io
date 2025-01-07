@@ -116,7 +116,7 @@ Poster Presentation, Biomedical Engineering Annual Meeting 2023, Seattle, WA
 -Analyzed the force data with a mathematical model to understand the material properties using **MATLAB**
 -Created a computer model using **FEBio** to simulate the gel's behavior and adjusted it until it matched the real-life test results
 
-### Biosolid Mechanics (Fall 2024) Term Independent Project: Effects of Osteoporosis on Stress Distribution and Fracture Risk in the Proximal Femur During Walking: A Finite Element Study
+### Biosolid Mechanics (Fall 2024) Final Independent Project: Effects of Osteoporosis on Stress Distribution and Fracture Risk in the Proximal Femur During Walking: A Finite Element Study
 Advised by Prof. Amy L. Lerner, Department of Biomedical Engineering, University of Rochester
 <br>
 <img width="729" alt="Screenshot 2024-12-19 at 11 33 37 PM" src="https://github.com/user-attachments/assets/073b70c6-16cb-4c65-907b-298bbfdccc61" />
