@@ -119,7 +119,11 @@ Poster Presentation, Biomedical Engineering Annual Meeting 2023, Seattle, WA
 ### Biosolid Mechanics (Fall 2024) Final Independent Project: Effects of Osteoporosis on Stress Distribution and Fracture Risk in the Proximal Femur During Walking: A Finite Element Study
 Advised by Prof. Amy L. Lerner, Department of Biomedical Engineering, University of Rochester
 <br>
+<br>
 This study investigates how osteoporosis affects strain distribution and damage accumulation in the femur during walking. The research hypothesize that osteoporosis alters strain distribution patterns in the proximal femur, leading to higher localized strain concentrations in areas of reduced cortical thickness, such as the femoral neck and greater trochanter as the previous research suggests [1]. Four finite element models of the proximal femur were developed in Abaqus incorporates variations in cortical thickness and material properties derived from previous studies in a week. Maximum forces resulting from walking were applied to the central femoral head, and the force of the abductor muscles such as gluteu medius, minimus, and tensor fasciae latae was applied to the contact area of the greater trochanter region [2,3].
+<br>
+<br>
+This study provides an innovative research design framework that facilitates multi-comparisons across different structural models. This approach enables a comprehensive parallel evaluation of how changes in mechanical properties influence the femur's ability to bear load during walking. By systematically adjusting properties such as cortical modulus and introducing localized thinning, the study captures a progression from healthy to increasingly osteoporotic conditions. This methodology not only enables a detailed assessment of mechanical properties in isolation but also illustrates their combined effects on stress, strain, displacement, and pressure distributions.
 <br>
 <img width="729" alt="Screenshot 2024-12-19 at 11 33 37 PM" src="https://github.com/user-attachments/assets/073b70c6-16cb-4c65-907b-298bbfdccc61" />
 <br>
