@@ -125,7 +125,7 @@ The upper and lower components assembled with cortical out layer and cancellous 
 <br>
 <img width="858" alt="Screenshot 2024-12-19 at 11 31 45 PM" src="https://github.com/user-attachments/assets/c5946f30-ae14-49b8-8234-b8e280dc1201" />
 <br>
-Comparative studies of the Von Mises stress, pressure distribution, maximum stress, and the displacement of the deformation are shown. **a.** Model I: the stress distribution and displacement of the proximal femur with a fixed bottom when the subject is at rest. **b.** Model II: the stress distribution and displacement of the proximal femur with the load applied with the focus on the x and z directions. As well as the osteoporotic femur models (Model III and Model IV) exhibit progressive mechanical vulnerabilities that compromise load-bearing capacity.
+Comparative studies of the Von Mises stress, pressure distribution, maximum stress, and the displacement of the deformation are shown. **a.** Model I: the stress distribution and displacement of the proximal femur with a fixed bottom when the subject is at rest. **b.** Model II: the stress distribution and displacement of the proximal femur with the load applied with the focus on the x and z directions (applied at angles of α = 25° and β = 7°). As well as the osteoporotic femur models (Model III and Model IV) exhibit progressive mechanical vulnerabilities that compromise load-bearing capacity.
 <br>
 <img width="748" alt="Screenshot 2025-01-06 at 11 01 29 PM" src="https://github.com/user-attachments/assets/8b03f855-c602-4349-97fa-7761a9b37a16" />
 <br>
@@ -133,6 +133,7 @@ Comparative studies of the Von Mises stress, pressure distribution, maximum stre
 <br>
 <br>
 <img width="913" alt="Screenshot 2025-01-06 at 11 02 11 PM" src="https://github.com/user-attachments/assets/f656c649-93ae-4566-88e1-3b0c8a17d1c4" />
+<br>
 Comparison of Total Strain Distributions in Proximal Femur Models Under Different Conditions a. Model II: Healthy subject's proximal femur during walking. b. Model III: Osteoporotic subject's proximal femur during walking. c. Model IV: Further weakened proximal femur of an osteoporotic subject during walking.
 <br>
 <br>
