@@ -119,6 +119,8 @@ Poster Presentation, Biomedical Engineering Annual Meeting 2023, Seattle, WA
 ### Biosolid Mechanics (Fall 2024) Final Independent Project: Effects of Osteoporosis on Stress Distribution and Fracture Risk in the Proximal Femur During Walking: A Finite Element Study
 Advised by Prof. Amy L. Lerner, Department of Biomedical Engineering, University of Rochester
 <br>
+This study investigates how osteoporosis affects strain distribution and damage accumulation in the femur during walking. The research hypothesize that osteoporosis alters strain distribution patterns in the proximal femur, leading to higher localized strain concentrations in areas of reduced cortical thickness, such as the femoral neck and greater trochanter as the previous research suggests [1]. Four finite element models of the proximal femur were developed in Abaqus incorporates variations in cortical thickness and material properties derived from previous studies in a week. Maximum forces resulting from walking were applied to the central femoral head, and the force of the abductor muscles such as gluteu medius, minimus, and tensor fasciae latae was applied to the contact area of the greater trochanter region [2,3].
+<br>
 <img width="729" alt="Screenshot 2024-12-19 at 11 33 37 PM" src="https://github.com/user-attachments/assets/073b70c6-16cb-4c65-907b-298bbfdccc61" />
 <br>
 The upper and lower components assembled with cortical out layer and cancellous inner structure. **a.** Framework of the diaphysis of the proximal femur. **b.** Reconstructed epiphysis and metaphysis of the proximal femur. **c.** A complete meshed representation of the proximal femur, showing the transition from the femoral head to the upper diaphysis. **d.** A cross-sectional view of the femoral shaft. **e.** Assembled femoral default Model I of a healthy human femur with applied mesh consists of the femoral head, neck, trochanteric and subtrochanteric region, and diaphysis divided by datum planes.
@@ -305,4 +307,9 @@ Jan 2017 - Jan 2018
 ![Photography](/images/pgraph.JPG)
 <br>
 Spring in Rochester, NY 2024
+<br>
+References
+[1] Poole KES, Treece GM, Mayhew PM, Vaculik J, Dungl P, Horak M, Stepan JJ, Gee AH. Cortical thickness mapping to identify focal osteoporosis in patients with hip fracture. PLoS ONE. 2012;7(6):e38466.
+[2] Reina-Romo E, Giráldez-Sánchez M, Mora-Macías J, Cano-Luis P, Domínguez J. Biomechanical design of less invasive stabilization system femoral plates: computational evaluation of the fracture environment. Proc Inst Mech Eng H. 2014;228(10):1043–52.
+[3] Ziegler CM, Wagner F, Alleborn K, Geith T, Holzapfel BM, Heimkes B. Muscle forces acting on the greater trochanter lead to a dorsal warping of the apophyseal growth plate. J Anat. 2023;244(1):63–74.
 
