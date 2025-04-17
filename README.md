@@ -7,7 +7,7 @@
 ## Education 
 University of Washington
 - Ph.D., Mechanical Engineering
-College of Engineering Dean's Fellowship
+- College of Engineering Dean's Fellowship
 
 University of Rochester (_May 2025_)			        		
 - B.S., Bioengineering and Biomedical Engineering 
