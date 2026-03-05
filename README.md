@@ -40,12 +40,12 @@ Poster for National Academy of Engineers Grand Challenge Scholars Program
 Been selected as one of the seven candidates (Undergraduates & Graduates) to present at USC Viterbi School of Engineering
 
 ## Research Experience
-**Research Assitant @ Buckley Lab, Department of Biomedical Engineering, University of Rochester (_January 2022 - Present_)**
+**Research Assitant @ Buckley Lab, Department of Biomedical Engineering, University of Rochester (_January 2022 - May 2025_)**
 - Developed 3D-printed indentation hardware and algorithms for linear regression with iterative optimization
 - Conducted data collection, processing, and analysis for the novel study evaluating how the infiltration of albumin-sized macromolecules and larger microspheres may affect the permeability of agarose hydrogels
 - Help other members with their projects, fabricate, and modify lab experiment equipment if needed
 
-**Senior Design Project: Ergonomic Surgical Pedal System, University of Rochester Medical Center (August 2024 - Present)**
+**Senior Design Project: Ergonomic Surgical Pedal System, University of Rochester Medical Center (August 2024 - May 2025)**
 - Collaborating on the design and development of a foot-controlled surgical pedal system to enhance surgeon comfort and reduce fatigue as a team of four using machine learning, Arduino, and 3D-Printing
 - Leading the design of the Ergonomic Surgical Pedal System prototype using SOLIDWORKS
 - Coordinating usability testing with surgeons to gather feedback for design refinement
