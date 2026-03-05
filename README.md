@@ -2,11 +2,12 @@
 
 #### Technical Skills: Abaqus CAE, SIEMENS NX, Python, R, Stata, LaTeX, MATLAB, GitHub, SOLIDWORKS, Onshape, Arduino, Machinery Design & Fabrication, CNC Programming (HAAS TL-1), 3D Printing, ANSYS Workbench, FEBio, Graphic Design, PCR, qPCR, ELISA, HPLC
 
-- **Hi! I am Wenqi!** I have worked on several projects centered around developing **algorithms and hardware** for various projects not only for research but also for machine manufacturing, including **investigating material properties of synthetic cartilage** (abstract accepted into BMES Annual Conference 2023 for my independent research), innovated **co-culture dual-channel 3D bioprinting system for the worldwide synthetic biology competition - iGEM (International Genetically Engineered Machine)**, and developed a new information system for helping organize clinical trials at **Good Clinical Practice (GCP)** Office at Changzhou No.2 People’s Hospital. Besides dry lab and wet lab research, I have actively participated in **advanced machine fabrication** and **business analysis**. See my CV for more details and selected awards in iGEM, National Academy of Engineers, and fellowships. 
+- **Hi! I am Wenqi! I am currently a first-year PhD Student in Mechanical Engineering at the Institute for Stem Cell and Regenerative Medicine, University of Washington, where I focus on building 3D stem cell systems for studying tissue regeneration microenvironments** 
+- I have worked on several projects centered around developing **algorithms and hardware** for various projects not only for research but also for machine manufacturing, including **investigating material properties of synthetic cartilage** (abstract accepted into BMES Annual Conference 2023 for my independent research), innovated **co-culture dual-channel 3D bioprinting system for the worldwide synthetic biology competition - iGEM (International Genetically Engineered Machine)**, and developed a new information system for helping organize clinical trials at **Good Clinical Practice (GCP)** Office at Changzhou No.2 People’s Hospital. Besides dry lab and wet lab research, I have actively participated in **advanced machine fabrication** and **business analysis**. See my CV for more details and selected awards in iGEM, National Academy of Engineers, and fellowships. 
 
 ## Education 
 University of Washington
-- Ph.D., Mechanical Engineering
+- **Ph.D., Mechanical Engineering**
 - College of Engineering Dean's Fellowship
 - Ron and Wanda Crockett Endowed Fellowship
 
