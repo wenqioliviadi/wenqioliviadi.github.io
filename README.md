@@ -8,6 +8,7 @@
 University of Washington
 - Ph.D., Mechanical Engineering
 - College of Engineering Dean's Fellowship
+- Ron and Wanda Crockett Endowed Fellowship
 
 University of Rochester (_May 2025_)			        		
 - B.S., Bioengineering and Biomedical Engineering 
