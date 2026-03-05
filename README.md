@@ -8,6 +8,8 @@
 ## Education 
 University of Washington
 - **Ph.D., Mechanical Engineering**
+- Depts. of Orthopaedic Surgery & Sports Medicine and Mechanical Engineering
+- Institute for Stem Cell & Regenerative Medicine
 - College of Engineering Dean's Fellowship
 - Ron and Wanda Crockett Endowed Fellowship
 
