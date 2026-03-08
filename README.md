@@ -5,7 +5,7 @@
 - **Hi! I am Wenqi (Olivia) Di! I am currently a first-year PhD Student in Mechanical Engineering at the Institute for Stem Cell and Regenerative Medicine, University of Washington, where I focus on building 3D stem cell systems for studying tissue regeneration microenvironments** 
 - I have worked on several projects centered around developing **algorithms and hardware** for various projects not only for research but also for machine manufacturing, including **investigating material properties of synthetic cartilage** (abstract accepted into BMES Annual Conference 2023 for my independent research), innovated **co-culture dual-channel 3D bioprinting system for the worldwide synthetic biology competition - iGEM (International Genetically Engineered Machine)**, and developed a new information system for helping organize clinical trials at **Good Clinical Practice (GCP)** Office at Changzhou No.2 People’s Hospital. Besides dry lab and wet lab research, I have actively participated in **advanced machine fabrication** and **business analysis**. See my CV for more details and selected awards in iGEM, National Academy of Engineers, and fellowships. 
 
-## Education 
+## Education (_Sep 2025 - Present_)
 University of Washington
 - **Ph.D., Mechanical Engineering**
 - Depts. of Orthopaedic Surgery & Sports Medicine and Mechanical Engineering
