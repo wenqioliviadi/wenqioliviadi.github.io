@@ -102,6 +102,15 @@
     /* HERO */
     #hero { padding: 140px 0 100px; border-bottom: 1px solid var(--light); }
     #hero .container { display: grid; grid-template-columns: 1fr 300px; gap: 4rem; align-items: start; }
+    .headshot {
+      width: 110px; height: 110px;
+      border-radius: 50%;
+      object-fit: cover;
+      display: block;
+      margin-bottom: 1.4rem;
+      border: 1px solid var(--light);
+      filter: grayscale(15%);
+    }
     .hero-left h1 {
       font-family: 'EB Garamond', serif;
       font-size: clamp(2.8rem, 4vw, 3.8rem);
@@ -239,6 +248,7 @@
   <div id="hero">
     <div class="container">
       <div class="hero-left">
+        <img src="headshot.jpg" alt="Wenqi Olivia Di" class="headshot" />
         <h1> Wenqi (Olivia) Di<br><em>PhD Researcher<br>& Strategist</em></h1>
         <p>First-year PhD student at the University of Washington. I translate cutting-edge biomedical research into scalable solutions — from 3D bioprinting systems to market strategy.</p>
         <div class="hero-links">
