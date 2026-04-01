@@ -267,7 +267,7 @@
         </div>
         <div class="info-block">
           <div class="info-label">Email</div>
-          <div class="info-value"><a href="/cdn-cgi/l/email-protection#7304171a413306045d161706"><span class="__cf_email__" data-cfemail="1364777a215366643d767766">[email&#160;protected]</span></a></div>
+          <div class="info-value"><a href="mailto:olivia.di@uw.edu">olivia.di@uw.edu</a></div>
         </div>
       </div>
     </div>
@@ -493,7 +493,7 @@
       <div class="contact-right reveal">
         <div class="contact-row">
           <span class="contact-row-label">Email</span>
-          <span class="contact-row-value"><a href="/cdn-cgi/l/email-protection#582f3c316a182d2f763d3c2d"><span class="__cf_email__" data-cfemail="3a4d5e53087a4f4d145f5e4f">[email&#160;protected]</span></a></span>
+          <span class="contact-row-value"><a href="mailto:olivia.di@uw.edu">olivia.di@uw.edu</a></span>
         </div>
         <div class="contact-row">
           <span class="contact-row-label">LinkedIn</span>
@@ -520,4 +520,13 @@
     <p>University of Washington · Seattle, WA</p>
   </footer>
 
-  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728
+    <script>
+    const observer = new IntersectionObserver(
+      entries => entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('visible'); }),
+      { threshold: 0.08 }
+    );
+    document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+  </script>
+
+</body>
+</html>
