@@ -226,6 +226,32 @@
     .reveal { opacity: 0; transform: translateY(14px); transition: opacity 0.6s ease, transform 0.6s ease; }
     .reveal.visible { opacity: 1; transform: translateY(0); }
 
+    /* OUTREACH */
+    .outreach-intro { font-size: 0.9rem; color: #555; line-height: 1.85; max-width: 560px; margin-bottom: 3rem; }
+    .outreach-list { display: flex; flex-direction: column; }
+    .outreach-item {
+      display: grid; grid-template-columns: 160px 1fr; gap: 2.5rem;
+      padding: 2rem 0; border-top: 1px solid var(--light);
+    }
+    .outreach-item:last-child { border-bottom: 1px solid var(--light); }
+    .outreach-meta { display: flex; flex-direction: column; gap: 0.4rem; }
+    .outreach-date { font-size: 0.72rem; color: var(--gray); line-height: 1.6; }
+    .outreach-tag { font-size: 0.68rem; border: 1px solid var(--light); padding: 0.18rem 0.5rem; color: var(--gray); display: inline-block; }
+    .outreach-title { font-family: 'EB Garamond', serif; font-size: 1.1rem; margin-bottom: 0.2rem; }
+    .outreach-title a { color: var(--black); text-decoration: none; border-bottom: 1px solid var(--light); transition: border-color 0.2s; }
+    .outreach-title a:hover { border-color: var(--black); }
+    .outreach-audience { font-size: 0.75rem; color: var(--gray); font-style: italic; margin-bottom: 0.5rem; }
+    .outreach-desc { font-size: 0.84rem; color: #555; line-height: 1.8; }
+    .outreach-note { font-size: 0.75rem; color: var(--black); margin-top: 0.5rem; font-weight: 500; }
+    .outreach-resources { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 0.8rem; }
+    .outreach-resource-link {
+      font-size: 0.72rem; letter-spacing: 0.06em; text-transform: uppercase;
+      color: var(--black); text-decoration: none;
+      border-bottom: 1px solid var(--black); padding-bottom: 1px;
+      transition: color 0.2s, border-color 0.2s;
+    }
+    .outreach-resource-link:hover { color: var(--gray); border-color: var(--gray); }
+
     @media (max-width: 768px) {
       nav { padding: 0 1.5rem; }
       .nav-links { display: none; }
@@ -246,6 +272,7 @@
       <li><a href="#research">Research</a></li>
       <li><a href="#experience">Experience</a></li>
       <li><a href="#publications">Publications</a></li>
+      <li><a href="#outreach">Outreach</a></li>
       <li><a href="#contact">Contact</a></li>
     </ul>
   </nav>
@@ -286,7 +313,7 @@
         </div>
         <div class="info-block">
           <div class="info-label">Email</div>
-          <div class="info-value"><a href="mailto:wdi2@uw.edu">wdi2@uw.edu</a></div>
+          <div class="info-value"><a href="/cdn-cgi/l/email-protection#3f485b560d7f4a48115a5b4a"><span class="__cf_email__" data-cfemail="6512010c572510124b000110">[email&#160;protected]</span></a></div>
         </div>
       </div>
     </div>
@@ -521,6 +548,120 @@
     </div>
   </section>
 
+  <!-- OUTREACH -->
+  <section id="outreach">
+    <div class="container">
+      <div class="section-label">Science Communication & Outreach</div>
+      <p class="outreach-intro reveal">As part of iGEM Rochester (Team RoSynth), I helped design and lead science education events reaching over 180 students and community members across Rochester, NY. Our goal was to make synthetic biology accessible and engaging for audiences of all ages and backgrounds — from elementary schoolers to senior residents to university alumni. Full documentation is on the <a href="https://2023.igem.wiki/rochester/education" target="_blank" style="color: var(--black); border-bottom: 1px solid var(--light);">iGEM Rochester Education & Outreach page</a>.</p>
+
+      <div class="outreach-list">
+
+        <div class="outreach-item reveal">
+          <div class="outreach-meta">
+            <div class="outreach-date">June 2023</div>
+            <span class="outreach-tag">Public Talk</span>
+          </div>
+          <div>
+            <div class="outreach-title"><a href="https://2023.igem.wiki/rochester/education#section4" target="_blank">Memorial Art Gallery — Rochester Forum</a></div>
+            <div class="outreach-audience">~80 University of Rochester alumni, ages 50s–70s</div>
+            <div class="outreach-desc">Presented the team's iGEM project to a general audience of alumni from diverse professional backgrounds — including business, law, and science — at an event organized by the Lifelong Learning Advisory Council and the Office of Alumni Relations. Adapted the presentation language for a highly educated but non-specialist audience, covering the science of synthetic biology, our dual-channel bioprinting system, and the entrepreneurship angle. The audience was particularly engaged by the business and patenting implications of our work.</div>
+            <div class="outreach-resources">
+              <a href="https://static.igem.wiki/teams/4588/wiki/mag-presentation.pdf" target="_blank" class="outreach-resource-link">Slides ↗</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="outreach-item reveal">
+          <div class="outreach-meta">
+            <div class="outreach-date">June 2023</div>
+            <span class="outreach-tag">Expert Interview</span>
+          </div>
+          <div>
+            <div class="outreach-title"><a href="https://2023.igem.wiki/rochester/education#section3" target="_blank">Science Communication Consultation — Dr. Shane Campbell-Staton</a></div>
+            <div class="outreach-audience">Internal team development</div>
+            <div class="outreach-desc">Met with Dr. Shane Campbell-Staton — evolutionary biologist at Princeton, host of the podcast <em>The Biology of Superheroes</em>, and PBS show <em>Human Footprints</em> — to learn strategies for communicating complex science to broad audiences. Key takeaways informed how we approached all subsequent outreach events: leading with relatable stories, finding a genuine point of connection, and trusting the audience's intellect while not assuming prior knowledge.</div>
+          </div>
+        </div>
+
+        <div class="outreach-item reveal">
+          <div class="outreach-meta">
+            <div class="outreach-date">July 2023</div>
+            <span class="outreach-tag">Workshop</span>
+          </div>
+          <div>
+            <div class="outreach-title"><a href="https://2023.igem.wiki/rochester/education#section4" target="_blank">Upward Bound Program — Lab Workshop</a></div>
+            <div class="outreach-audience">High school students (first-generation / low-income, Rochester City Schools)</div>
+            <div class="outreach-desc">Led a hands-on workshop in a UR teaching lab for students in Upward Bound, a federally-funded program supporting students who may become first-generation college students. Taught bacterial plate streaking, yeast colony identification, and BioBrick construction. Students built their own "BioBrick bracelets" using colored beads to represent genetic components — an analogy that made abstract concepts tangible. Workshop design was informed by a prior consultation with Dr. Nicholas Hammond (CETL, University of Rochester) on pedagogy and active learning.</div>
+            <div class="outreach-resources">
+              <a href="https://static.igem.wiki/teams/4588/wiki/designing-biobricks-ub.pdf" target="_blank" class="outreach-resource-link">BioBricks Slides ↗</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="outreach-item reveal">
+          <div class="outreach-meta">
+            <div class="outreach-date">July–Aug 2023</div>
+            <span class="outreach-tag">Summer Camp</span>
+          </div>
+          <div>
+            <div class="outreach-title"><a href="https://2023.igem.wiki/rochester/education#section4" target="_blank">Rochester Museum and Science Center — Med School 101 Curiosity Camps</a></div>
+            <div class="outreach-audience">~40 students aged 9–11 per week, across 2 weeks</div>
+            <div class="outreach-desc">Ran two weeks of biology lessons at the RMSC summer camp, designing and teaching three activities: <em>Genetic Engineering Medicines</em> (inserting genes into plasmids using restriction enzymes), <em>Strawberry DNA Extraction</em>, and a <em>Bile Milk Activity</em> modeling fat digestion. Iterated the curriculum between weeks based on student feedback — for instance, simplifying the plasmid worksheet and converting lecture content into short interactive PowerPoints to boost engagement. Emphasized hands-on learning using Bloom's Taxonomy and Universal Design for Learning principles.</div>
+            <div class="outreach-resources">
+              <a href="https://static.igem.wiki/teams/4588/wiki/genetic-engineering-medicines.pdf" target="_blank" class="outreach-resource-link">Genetic Engineering Slides ↗</a>
+              <a href="https://static.igem.wiki/teams/4588/wiki/strawberry-dna.pdf" target="_blank" class="outreach-resource-link">DNA Extraction Slides ↗</a>
+              <a href="https://static.igem.wiki/teams/4588/wiki/strawberry-dna-extraction-lesson-plan.pdf" target="_blank" class="outreach-resource-link">Lesson Plan ↗</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="outreach-item reveal">
+          <div class="outreach-meta">
+            <div class="outreach-date">Jul–Aug 2023</div>
+            <span class="outreach-tag">Public Engagement</span>
+          </div>
+          <div>
+            <div class="outreach-title"><a href="https://2023.igem.wiki/rochester/education#section4" target="_blank">Farmers Markets — Westside & Brighton "Ask a Scientist" Booth</a></div>
+            <div class="outreach-audience">General public, diverse educational backgrounds</div>
+            <div class="outreach-desc">Tabled at two Rochester-area farmers markets to engage the public on synthetic biology and our iGEM project. At Brighton's "Ask a Scientist" booth, wore lab coats and brought a short slideshow of lab photos to anchor conversations. Engaged a broad range of visitors — including a microbiology professor and an American chestnut tree specialist — and distributed brochures and business cards. These events sharpened our ability to pitch research value to non-scientists and adapt explanations on the fly.</div>
+          </div>
+        </div>
+
+        <div class="outreach-item reveal">
+          <div class="outreach-meta">
+            <div class="outreach-date">2023</div>
+            <span class="outreach-tag">Senior Outreach</span>
+          </div>
+          <div>
+            <div class="outreach-title"><a href="https://2023.igem.wiki/rochester/education#section4" target="_blank">Highlands at Pittsford — Senior Residential Presentation</a></div>
+            <div class="outreach-audience">18–19 senior residents, Pittsford, NY</div>
+            <div class="outreach-desc">Presented our iGEM project at a senior residential center, adapting content for an older audience with varied science backgrounds. Used real-world analogies (e.g., comparing hydrogels to Jell-O), larger fonts, and interactive questions throughout. Incorporated feedback from our Rochester Forum presentation by adding slides on the business and policy dimensions of synthetic biology. Residents were highly engaged — many came up afterward with questions and invited us back post-Jamboree to hear our results.</div>
+            <div class="outreach-resources">
+              <a href="https://static.igem.wiki/teams/4588/wiki/highlands-presentation.pdf" target="_blank" class="outreach-resource-link">Slides ↗</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="outreach-item reveal">
+          <div class="outreach-meta">
+            <div class="outreach-date">2023</div>
+            <span class="outreach-tag">Resource</span>
+          </div>
+          <div>
+            <div class="outreach-title"><a href="https://static.igem.wiki/teams/4588/wiki/2023-curriculum-design-final.pdf" target="_blank">Curriculum Design Guide for Synthetic Biology Education</a></div>
+            <div class="outreach-audience">Educators, future iGEM teams</div>
+            <div class="outreach-desc">Co-authored a curriculum design guide for inclusive and accessible synthetic biology education, grounded in national science education standards. Donated to Rochester Charter Academy for integration into middle school science classes. The guide covers lesson activity design, adapting content across age groups and educational backgrounds, and strategies for engagement. Freely downloadable and adaptable.</div>
+            <div class="outreach-resources">
+              <a href="https://static.igem.wiki/teams/4588/wiki/2023-curriculum-design-final.pdf" target="_blank" class="outreach-resource-link">Download Guide ↗</a>
+              <a href="https://2023.igem.wiki/rochester/education" target="_blank" class="outreach-resource-link">Full iGEM Page ↗</a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
   <!-- CONTACT -->
   <section id="contact">
     <div class="container">
@@ -532,7 +673,7 @@
       <div class="contact-right reveal">
         <div class="contact-row">
           <span class="contact-row-label">Email</span>
-          <span class="contact-row-value"><a href="mailto:wdi2@uw.edu">wdi2@uw.edu</a></span>
+          <span class="contact-row-value"><a href="/cdn-cgi/l/email-protection#97e0f3fea5d7e2e0b9f2f3e2"><span class="__cf_email__" data-cfemail="90e7f4f9a2d0e5e7bef5f4e5">[email&#160;protected]</span></a></span>
         </div>
         <div class="contact-row">
           <span class="contact-row-label">LinkedIn</span>
@@ -559,13 +700,4 @@
     <p>University of Washington · Seattle, WA</p>
   </footer>
 
-    <script>
-    const observer = new IntersectionObserver(
-      entries => entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('visible'); }),
-      { threshold: 0.08 }
-    );
-    document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
-  </script>
-
-</body>
-</html>
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728
