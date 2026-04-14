@@ -32,7 +32,7 @@
     "name": "Wenqi Olivia Di",
     "alternateName": ["Olivia Di", "Wenqi Di"],
     "url": "https://wenqioliviadi.github.io/",
-    "email": "olivia.di@uw.edu",
+    "email": "wdi2@uw.edu",
     "jobTitle": "PhD Student, Mechanical Engineering",
     "affiliation": {
       "@type": "CollegeOrUniversity",
@@ -313,7 +313,7 @@
         </div>
         <div class="info-block">
           <div class="info-label">Email</div>
-          <div class="info-value"><a href="/cdn-cgi/l/email-protection#3f485b560d7f4a48115a5b4a"><span class="__cf_email__" data-cfemail="6512010c572510124b000110">[email&#160;protected]</span></a></div>
+          <div class="info-value"><a id="email-hero"></a></div>
         </div>
       </div>
     </div>
@@ -673,7 +673,7 @@
       <div class="contact-right reveal">
         <div class="contact-row">
           <span class="contact-row-label">Email</span>
-          <span class="contact-row-value"><a href="/cdn-cgi/l/email-protection#97e0f3fea5d7e2e0b9f2f3e2"><span class="__cf_email__" data-cfemail="90e7f4f9a2d0e5e7bef5f4e5">[email&#160;protected]</span></a></span>
+          <span class="contact-row-value"><a id="email-contact"></a></span>
         </div>
         <div class="contact-row">
           <span class="contact-row-label">LinkedIn</span>
@@ -700,4 +700,29 @@
     <p>University of Washington · Seattle, WA</p>
   </footer>
 
-    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728
+  <script>
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+        }
+      });
+    }, { threshold: 0.08 });
+    document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+
+    // Render email via JS to prevent Cloudflare obfuscation
+    (function() {
+      const u = 'wdi2';
+      const d = 'uw.edu';
+      const email = u + '@' + d;
+      ['email-hero', 'email-contact'].forEach(function(id) {
+        const el = document.getElementById(id);
+        if (el) {
+          el.href = 'mailto:' + email;
+          el.textContent = email;
+        }
+      });
+    })();
+  </script>
+</body>
+</html>
